@@ -6,43 +6,59 @@
     
     <meta name="viewport" content="width=device-width, inital-scale=1">
     
-    <!-- Latest compiled and minified CSS -->
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="css/bootstrap-theme.css">
 
-    <!-- Optional theme -->
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
-
+    <!-- styles -->    
+    <link href="css/style.css" rel="stylesheet">
     
-    <link href="style.css" rel="stylesheet">
-    <link href="css/bootstrap.min.css" rel="stylesheet">
     <style>
-       @font-face {
-        font-family: Batman; /* Имя шрифта */
-        src: url(fonts/Batman.ttf); /* Путь к файлу со шрифтом */
-       }
-       P {
-        font-family: Batman;
-       }
+        @font-face {
+            font-family: Batman; /* Имя шрифта */
+            src: url(fonts/Batman.ttf); /* Путь к файлу со шрифтом */
+        }
+
+        P {
+            font-family: Batman;
+        }
+
         h1{
             font-family: Batman;
         }
-        
-  </style>
+
+    </style>
 </head>
 <body>
    
     <div class="container">
-    <header>
-        <h1>Сайт пока не работает.</h1>
-        <p>В настоящий момент наш сайт находится в разработке.</p>
-    </header>
+    
+        <header class="row">
+          
+            <div class="col-md-2">
+                <img src="img/logo.png" alt="you fag" class="logo">
+            </div>
+          
+            <div class="col-md-8" id="text"> 
+                <h1>Сайт пока не работает.</h1>
+                <p>В настоящий момент наш сайт находится в разработке. Просим прощения за неудобства.</p>
+            </div>
+            
+            <div class="col-md-2">
+                <div class="logo">
+                    <img src="img/logo.png" alt="you fag" >
+                </div>
+            </div>
+            
+        </header>
     
     </div>
     
+    
     <!-- JQuary -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-    <!-- Latest compiled and minified JavaScript -->
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+    <script src="js/jquery-3.2.1.js"></script>
+    <!-- Bootstrap -->
+    <script src="js/bootstrap.js"></script>
     <script src="script.js"></script>
 </body>
 </html>
