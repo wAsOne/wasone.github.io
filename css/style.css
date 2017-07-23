@@ -1,6 +1,10 @@
-
+body{
+    background-image: url(/img/bg.png);
+    background-attachment: fixed;
+    background-size: 100%
+}
 #menu{
-background: #000;
+background: #0f0f0f;
 }
 #logo{
     background-image: url(/img/logo.png);
@@ -108,6 +112,11 @@ h1{
 .footer{
     height: 250px;
     color: #fff;
+}
+
+.in_footer{
+    padding-top: 10px;
+    padding-left: 40%;
 }
 
 .logo_ch_studio{
