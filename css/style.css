@@ -4,7 +4,7 @@ body{
     background-size: 100%
 }
 #menu{
-background: #0f0f0f;
+    background: #0f0f0f;
 }
 #logo{
     background-image: url(/img/logo.png);
@@ -15,7 +15,7 @@ background: #0f0f0f;
 }
 
 .navbar{
-    background: #000000;
+    background: #0f0f0f;
     margin-bottom: 0px;
     border: 0px solid transparent;
     font-family: Batman;
