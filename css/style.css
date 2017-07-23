@@ -1,9 +1,96 @@
-
-.logo {
-    padding-top: 10px;
-    padding-left: 25px;
+#menu{
+background: #000;
+}
+#logo{
+    background-image: url(logo.png);
+    background-repeat:no-repeat;
+    width: 20px;
+    padding-left: 30px;
+    font-size: 45px;
 }
 
-#text{
-    text-align: center
+.navbar{
+    background: #000000;
+    margin-bottom: 0px;
+    border: 0px solid transparent;
+    font-family: Batman;
+    font-size: 20px;
+}
+
+#slider {
+    padding: 0;
+    background: #1f1f1f;
+}
+
+
+
+
+h1{
+    font-family: Batman;
+}
+
+.h2_carousel{
+    margin: 0;     
+    color: #666;
+    padding-top: 90px;
+    font-family: "trebuchet ms", sans-serif;    
+}
+
+.item{
+    background: #333;    
+    text-align: center;
+    height: 400px !important;
+}
+
+.carousel{
+
+}
+
+.window_download {
+    background: #1f1f1f;
+    height: 315px;
+    width: 100%;
+    color: #fff;
+}
+
+#button_download_bg{
+    height: 400;
+}
+
+.button_download{
+    height: 400;
+}
+
+.button_download a{
+    padding: 15px 40px;
+    background: #d9d9d9;
+    text-decoration: none;
+    color: black;
+    border: 5px solid #8d8d8d;
+    transition: 0.2s;
+    font-size: 25px;
+}
+
+.button_download a:hover {
+    background: #1a1a1a;
+    color: white;
+    padding: 20px 50px;
+    border: 5px solid #0a0a0a;
+}
+
+.button_download a:active{
+    background: #0b0b0b;
+    border: 5px solid #000;
+}
+
+#slide_1{
+    background-image:url(slide_1.png)
+}
+
+#slide_2{
+    background-image:url(slide_2.png)
+}
+
+#slide_3{
+    background-image:url(slide_3.png)
 }
