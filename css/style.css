@@ -53,13 +53,13 @@ h1{
 
 .window_download {
     background: #1f1f1f;
-    height: 315px;
+    height: 270px;
     width: 100%;
-    color: #fff;
+    color: #d1d1d1;
 }
 
 #button_download_bg{
-    height: 400;
+    height: 400px;
 }
 
 .button_download{
@@ -67,19 +67,19 @@ h1{
 }
 
 .button_download a{
-    padding: 15px 40px;
+    padding: 20px 30px;
     background: #d9d9d9;
     text-decoration: none;
     color: black;
     border: 5px solid #8d8d8d;
     transition: 0.2s;
-    font-size: 25px;
+    font-size: 35px;
 }
 
 .button_download a:hover {
     background: #1a1a1a;
     color: white;
-    padding: 20px 50px;
+    padding: 27px 40px;
     border: 5px solid #0a0a0a;
 }
 
