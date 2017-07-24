@@ -116,15 +116,13 @@ h1{
 
 .in_footer{
     padding-top: 10px;
-    padding-left: 40%;
+    padding-left: 36%;
 }
 
 .logo_ch_studio{
     padding-top: 30px;
     padding-bottom: 20px;
 }
-
-
 
 
 
@@ -182,12 +180,22 @@ h1{
     padding-top: 56px;
 }
 
+.download{
+    padding: 30px;
+    color: #000;
+    height: 700px;
+}
 
+td{
+    padding: 10px;
+    background: #afafaf;
+}
 
-
-
-
-
+.download_all{
+    padding: 30px;
+    color: #fff;
+    height: 700px;
+}
 
 
 
