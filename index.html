@@ -1,270 +1,37 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, inital-scale=1">
-    <title>Complete Nonsense</title>
-    <meta name="yandex-verification" content="61de9f5fb4057c4f" />
-
-    <link rel="shortcut icon" href="/img/favicon.ico" type="image/x-icon">
-
-
-    <!-- Bootstrap -->
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-
-    <!-- Optional theme -->
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
-
-    <!-- Latest compiled and minified JavaScript -->
-
-    <link href="css/style.css" rel="stylesheet">
-
-    <style>
-        @font-face {
-            
-            font-family: Astakhov_First_One_Stripe;
-            /* Имя шрифта */
-            src: url(fonts/Roboto.ttf);
-            
-            /* Путь к файлу со шрифтом */
-        }
-        
-        @font-face {
-            font-family: Batman;
-            
-            src: url(fonts/Batman.ttf);
-            
-            /* Путь к файлу со шрифтом */
-        }
-        
-        h1{
-            font-family: Batman;
-        }
-        
-        #menu{
-            background: #0f0f0f;
-        }
-
-        .navbar{
-            background: #0f0f0f;
-            margin-bottom: 0px;
-            border: 0px solid transparent;
-            font-family: Batman;
-            font-size: 20px;
-        }
-    </style>
+<!doctype html>
+<html lang="ru">
+<head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Smile — общая карта</title>  <script type="module" crossorigin src="/assets/index-Dd96GXtY.js"></script>
+  <link rel="stylesheet" crossorigin href="/assets/index-2ShRfKWV.css">
 </head>
-<body style="background-image: url(/img/bg.png);background-attachment: fixed;background-size: 100%">
-
-<!--  ХЕДЕР-->
-   <header>
-        <nav class="navbar navbar-default">
-          <div class="container-fluid" id="menu">
-            <!-- Brand and toggle get grouped for better mobile display -->
-            <div class="navbar-header">
-              <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
-              </button>
-
-              <a class="navbar-brand" href="#" id="logo">CN</a>
-            </div>
-
-            <!-- Collect the nav links, forms, and other content for toggling -->
-            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-              <ul class="nav navbar-nav">
-
-              </ul>
-    <!--
-              <form class="navbar-form navbar-left">
-                <div class="form-group">
-                  <input type="text" class="form-control" placeholder="Search">
-                </div>
-                <button type="submit" class="btn btn-default">Submit</button>
-              </form>
-    -->
-              <ul class="nav navbar-nav navbar-right">
-                <li><a href="https://wasone.github.io/">Главная<span class="sr-only">(current)</span></a></li>
-                <li><a href="/download.html">Версии</a></li>
-                <li><a href="http://ru.complete-nonsense.wikia.com/">wiki</a></li>
-                <li><a href="/donat.html">Поддержать</a></li>
-                <!--<li class="dropdown">
-                  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Dropdown <span class="caret"></span></a>
-                  <ul class="dropdown-menu">
-                    <li><a href="#">Action</a></li>
-                    <li><a href="#">Another action</a></li>
-                    <li><a href="#">Something else here</a></li>
-                    <li role="separator" class="divider"></li>
-                    <li><a href="#">Separated link</a></li>
-                    <li role="separator" class="divider"></li>
-                    <li><a href="#">One more separated link</a></li>
-                  </ul>
-                </li>-->
-              </ul>
-            </div><!-- /.navbar-collapse -->
-          </div><!-- /.container-fluid -->
-        </nav>
-
-
-        <!-- КАРУСЕЛЬ    -->
-        <div class="container" id="slider">
-           <div class="col-md-7" id="slider">
-                <div id="myCarousel" class="carousel slide" data-interval="3000" data-ride="carousel">
-                  <!-- Индикаторы для карусели -->
-                  <ol class="carousel-indicators">
-                    <!-- Перейти к 0 слайду карусели с помощью соответствующего индекса data-slide-to="0" -->
-                    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-                    <!-- Перейти к 1 слайду карусели с помощью соответствующего индекса data-slide-to="1" -->
-                    <li data-target="#myCarousel" data-slide-to="1"></li>
-                    <!-- Перейти к 2 слайду карусели с помощью соответствующего индекса data-slide-to="2" -->
-                    <li data-target="#myCarousel" data-slide-to="2"></li>
-                  </ol>
-                  <!-- Слайды карусели -->
-                  <div class="carousel-inner">
-                    <!-- Слайды создаются с помощью контейнера с классом item, внутри которого помещается содержимое слайда -->
-                    <div class="active item" id="slide_1">
-                      <div class="carousel-caption">
-                      </div>
-                    </div>
-                    <!-- Слайд №2 -->
-                    <div class="item"  id="slide_2">
-                      <div class="carousel-caption">
-                      </div>
-                    </div>
-                    <!-- Слайд №3 -->
-                    <div class="item"  id="slide_3">
-                      <div class="carousel-caption">
-                      </div>
-                    </div>
-                  </div>
-                  <!-- Навигация для карусели -->
-                  <!-- Кнопка, осуществляющая переход на предыдущий слайд с помощью атрибута data-slide="prev" -->
-<!--
-                  <a class="carousel-control left" href="#myCarousel" data-slide="prev">
-                    <span class="glyphicon glyphicon-chevron-left"></span>
-                  </a>
-                  
-                  <a class="carousel-control right" href="#myCarousel" data-slide="next">
-                    <span class="glyphicon glyphicon-chevron-right"></span>
-                  </a>
--->
-                </div>
-            </div>
-
-            <div class="col-md-5" id="button_download_bg" style="background: #1f1f1f;">
-                <div class="window_download">                    
-                    <p><h2 style="font-family: Batman;"><center>Complete Nonsense 0.3 alpha!</center></h2> 
-                        <div style="font-size: 17px;"> 
-                        <p><b>Год выпуска:</b> 2017</p> 
-                        <p><b>Жанр:</b> Фентези, Комедия, Экшн, Приключение, Пародия</p> 
-                        <p><b>Язык:</b> Русский</p> 
-                        <p><b>Недочеты:</b> не хватает качественных фонов.</p> 
-
-                        </div>
-                    </p>
-                </div>
-                <div>
-                   <center>
-                        <div class="button_download">
-                            <a href="https://yadi.sk/d/BpQI-nXy3LKzCD" target="_blank" style="font-family: Batman;">СКАЧАТЬ</a>
-                        </div>
-                    </center>
-                </div>
-            </div>
-
-        </div>
-        <!--КАРУСЕЛЬ END-->
-    </header>
-
-<!-- КОНЕЦ ХЕДЕРА-->
-
-   <container>
-       <div class="container">
-          <div class="row">
-
-            <div class="col-md-5" style="background: #1f1f1f; color: #fff;">
-              <div class="cont_left">
-                <h2 style="font-family: Batman;"><center>О чем игра?</center></h2>
-                    <center><p>Эта игра окунет вас в незабываемый и фантастический мир, где события развиваются в 1313 году, но ход времени изменен! У игрока будет возможность взглянуть на жестокий и беспощадный мир, в котором правит тиран глазами Алекса, - всего лишь парнишки-программиста, который сторонится общества и предпочитает не интересоваться делами властей страны Малеон, но все еще изменится и ему придется пройти сквозь познание себя, ложь, предательство и иные опасности подстерегающие на пути к единственной цели: Правде. Вас ждет множество харизматичных и запоминающихся персонажей, но самая таинственная фигура среди них некий Двуликий. Его тайны и роль вскружат вам голову, а сюжет не позволит оторваться. Узнайте все о мире "Полного безумия" и приготовьтесь к незабываемым приключениям!</p></center>
-              </div>
-            </div>
-
-            <div class="col-md-7" style="background: url(/img/bg_gal.png);padding: 0px;">
-              <div class="cont_right" style="background-color: rgba(222, 222, 222, 0.9); padding: 15px;";>
-                <div id="gallery" style="">
-                  <img src="/img/slide_1.png" alt="" tabindex="0" />
-                  <img src="/img/slide_1.png" alt="" tabindex="0" />
-                  <img src="/img/slide_1.png" alt="" tabindex="0" />
-                  <img src="/img/slide_1.png" alt="" tabindex="0" />
-                  <img src="/img/slide_1.png" alt="" tabindex="0" />
-                  <img src="/img/slide_1.png" alt="" tabindex="0" />
-                  <img src="/img/slide_1.png" alt="" tabindex="0" />
-                  <img src="/img/slide_1.png" alt="" tabindex="0" />
-                </div>
-              </div>
-            </div>  
-
-          
-          
-          <div class="col-md-7" style="background: #d1d1d1; color: #000; height: 526px;">
-              <div class="cont_left">
-                <div class="vk_music">
-                    <script type="text/javascript" src="//vk.com/js/api/openapi.js?146"></script>
-                    <!-- VK Widget MUSIC-->
-                    <div id="vk_playlist_-148868629_1"></div>
-                    <script type="text/javascript">
-                    VK.Widgets.Playlist('vk_playlist_-148868629_1', -148868629, 1, '03b330d6fbbbfe669b');
-                    </script>
-                </div>
-              </div>
-          </div>
-              <div class="col-md-5" style="background: #1f1f1f; color: #000;">
-                <div class="vk_news">
-                   <p><center style="color: #fff; font-size: 20px; padding: 4px;">Последние новости</center></p>
-                    <script type="text/javascript" src="//vk.com/js/api/openapi.js?146"></script>
-                    <!-- VK Widget NEWS-->
-                    <div id="vk_groups"></div>
-                    <script type="text/javascript">
-                    VK.Widgets.Group("vk_groups", {mode: 4, wide: 1, height: "450", color3: '000000', width: "auto"}, 148868629);
-                    </script>
-                </div>
-              </div>
-          </div>
-       </div>
-   </container>
-
-
-   <footer>
-      <div class="container-fluid">
-          <div class="row">
-
-            <div class="col-md-12" style="background: #0f0f0f;">
-              <div class="footer">
-                    <img src="/img/footer_mask.png" style="float: left; padding: 20px;">
-                    <img src="/img/footer_hat.png" style="float: right; padding: 20px;">
-                   <center><img src="/img/logo_cn_studio.png" alt="" class="logo_ch_studio"></center>
-                    <div style="padding-top: 10px; padding-left: 36%;">
-                         
-                         <p>Группа в<a href="https://vk.com/the_complete_nonsense"> ВК</a></p>
-                         <p style="background-image: url()">Связаться с нами: was.lopatin.one@gmail.com</p>
-                    </div>
-                    
-                    <center><p style="padding-top: 40px;">© Complete Nonsense</p></center>
-              </div>
-            </div>
-
-          </div>
-       </div>
-   </footer>
-
-
-
-    <!-- JQuary -->
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
-    <!-- styles -->
-    
-    <script src="js/jquery-3.2.1.js"></script>
-    <!-- Bootstrap -->
-    <script src="js/bootstrap.js"></script>
-    <script src="script.js"></script>
-
+<body>
+  <div id="game"></div>
+  <main id="login">
+    <form id="login-form">
+      <h1>Smile</h1><p>Общая карта и разговоры рядом</p>
+      <label>Имя пользователя<input id="nickname" minlength="2" maxlength="20" required autocomplete="username"></label>
+      <label>Пароль<input id="password" type="password" minlength="10" maxlength="128" required autocomplete="current-password"></label>
+      <section id="registration" hidden>
+        <div id="register-preview" class="preview-host"></div>
+        <button id="reroll" type="button">Другой цвет</button>
+        <p class="small">Цвет выбирает сервер. После регистрации он сохраняется.</p>
+      </section>
+      <button id="auth-submit" type="submit">Войти</button>
+      <button id="auth-toggle" type="button" class="secondary">Регистрация</button>
+      <p id="error" role="alert"></p>
+    </form>
+  </main>
+  <div id="hud" hidden>
+    <button id="online-count" type="button" aria-haspopup="dialog" aria-expanded="false">Онлайн …</button>
+    <div id="hint">
+      <button id="help-toggle" type="button" aria-controls="help-content" aria-expanded="true" aria-label="Свернуть подсказку">−</button>
+      <div id="help-content">
+        <strong>Управление</strong><br>WASD / стрелки — движение<br>ЛКМ — идти к курсору · E — объект<br>Enter — чат · Esc — отмена
+        <div class="help-rp"><strong>RP-команды</strong><br>/me — действие · /do — описание<br>/try — попытка · /w — шёпот<br>/s — сообщение всем</div>
+      </div>
+    </div>
+    <div id="account"><span id="account-name"></span><button id="logout" type="button">Выйти</button><span id="connection-status" role="status"></span></div>
+    <div id="interaction-hint" role="status"></div><section id="chat"><div id="history" role="log" aria-live="polite"></div><input id="message" maxlength="200" placeholder="Enter — написать сообщение" aria-label="Сообщение"></section>
+  </div>
 </body>
 </html>
+
