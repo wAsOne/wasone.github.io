@@ -1,6 +1,6 @@
 <!doctype html>
 <html lang="ru">
-<head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="application-name" content="Ghosty"><meta name="description" content="Ghosty — общая карта и разговоры рядом"><link rel="icon" type="image/png" href="/assets/ui/ghosty-icon.png"><title>Ghosty — общая карта</title>  <script type="module" crossorigin src="/assets/index-ClimJCe9.js"></script>
+<head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="application-name" content="Ghosty"><meta name="description" content="Ghosty — общая карта и разговоры рядом"><link rel="icon" type="image/png" href="/assets/ui/ghosty-icon.png"><title>Ghosty — общая карта</title>  <script type="module" crossorigin src="/assets/index-B_Ckj_6p.js"></script>
   <link rel="stylesheet" crossorigin href="/assets/index-DexDO8-N.css">
 </head>
 <body>
@@ -51,6 +51,22 @@
     <div id="account"><span data-icon="user"></span><span id="account-name"></span><span class="coin-balance"><img class="ui-coin" src="/assets/ui/coin-24.png" srcset="/assets/ui/coin-24.png 1x, /assets/ui/coin-48.png 2x, /assets/ui/coin-72.png 3x" alt="Баланс" width="24" height="24"><span id="account-balance">0</span></span><button id="logout" type="button">Выйти</button><span id="connection-status" role="status"></span></div>
     <div id="interaction-hint" role="status"></div><section id="chat" class="aero-window"><header class="aero-header"><span data-icon="chat"></span> Чат рядом</header><div id="history" role="log" aria-live="polite"></div><input id="message" maxlength="200" placeholder="Enter — написать сообщение" aria-label="Сообщение"></section>
   </div>
+  <script>
+    // Pages caches HTML for ten minutes. Check the entry document on ordinary reload;
+    // a changed module filename means a new map and client bundle are available.
+    void fetch(location.pathname, {cache:'no-store'}).then(response => response.ok ? response.text() : '').then(html => {
+      if (!html) return;
+      const fresh = new DOMParser().parseFromString(html, 'text/html').querySelector('script[type="module"][src]');
+      const current = document.querySelector('script[type="module"][src]');
+      const nextScript = fresh?.getAttribute('src');
+      if (!nextScript || !current || nextScript === current.getAttribute('src')) return;
+      const version = new URL(nextScript, location.href).pathname.split('/').pop();
+      const url = new URL(location.href);
+      if (url.searchParams.get('_ghosty') === version) return;
+      url.searchParams.set('_ghosty', version);
+      location.replace(url.href);
+    }).catch(() => undefined);
+  </script>
 </body>
 </html>
 
