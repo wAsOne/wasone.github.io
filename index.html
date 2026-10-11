@@ -1,55 +1,36 @@
 <!doctype html>
 <html lang="ru">
-<head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="application-name" content="Ghosty"><meta name="description" content="Ghosty — общая карта и разговоры рядом"><link rel="icon" type="image/png" href="/assets/ui/ghosty-icon.png"><title>Ghosty — общая карта</title>  <script type="module" crossorigin src="/assets/index-BzS2N7Tg.js"></script>
-  <link rel="stylesheet" crossorigin href="/assets/index-DexDO8-N.css">
+<head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Smile — общая карта</title>  <script type="module" crossorigin src="/assets/index-Dd96GXtY.js"></script>
+  <link rel="stylesheet" crossorigin href="/assets/index-2ShRfKWV.css">
 </head>
 <body>
   <div id="game"></div>
   <main id="login">
-    <div class="auth-shell">
-      <img class="auth-logo" src="/assets/ui/ghosty-logo-horizontal.png" alt="Ghosty" width="1957" height="531">
-      <form id="login-form" class="aero-window">
-        <header class="aero-header"><span data-icon="user"></span> Добро пожаловать в Ghosty</header>
-        <div class="auth-layout">
-          <div class="auth-fields">
-            <div class="auth-tabs aero-tabs" role="group" aria-label="Вход или регистрация">
-              <button id="auth-login" type="button" aria-pressed="true">Вход</button>
-              <button id="auth-toggle" type="button" class="secondary" aria-pressed="false">Регистрация</button>
-            </div>
-            <p class="auth-intro">Твой маленький мир больших знакомств.</p>
-            <label for="nickname">Имя пользователя</label>
-            <div class="input-icon"><span data-icon="user"></span><input id="nickname" minlength="2" maxlength="20" required autocomplete="username" placeholder="Как вас зовут?"></div>
-            <label for="password">Пароль</label>
-            <div class="input-icon"><span data-icon="lock"></span><input id="password" type="password" minlength="10" maxlength="128" required autocomplete="current-password" placeholder="Не менее 10 символов"></div>
-            <button id="auth-submit" class="aero-button-primary" type="submit">Войти</button>
-            <p id="error" role="alert"></p>
-          </div>
-          <aside class="auth-character">
-            <div class="character-podium"><div id="register-preview" class="preview-host"></div></div>
-            <section id="registration" hidden>
-              <button id="reroll" type="button">Другой цвет</button>
-              <p class="small">Цвет выбирает сервер. После регистрации он сохраняется.</p>
-            </section>
-          </aside>
-        </div>
-        <footer class="auth-status" id="auth-status" role="status">Проверяем подключение…</footer>
-      </form>
-    </div>
+    <form id="login-form">
+      <h1>Smile</h1><p>Общая карта и разговоры рядом</p>
+      <label>Имя пользователя<input id="nickname" minlength="2" maxlength="20" required autocomplete="username"></label>
+      <label>Пароль<input id="password" type="password" minlength="10" maxlength="128" required autocomplete="current-password"></label>
+      <section id="registration" hidden>
+        <div id="register-preview" class="preview-host"></div>
+        <button id="reroll" type="button">Другой цвет</button>
+        <p class="small">Цвет выбирает сервер. После регистрации он сохраняется.</p>
+      </section>
+      <button id="auth-submit" type="submit">Войти</button>
+      <button id="auth-toggle" type="button" class="secondary">Регистрация</button>
+      <p id="error" role="alert"></p>
+    </form>
   </main>
   <div id="hud" hidden>
-    <button id="wardrobe-toggle" type="button" title="Гардероб" aria-label="Гардероб" aria-haspopup="dialog" aria-expanded="false"><span data-icon="shirt"></span></button>
-    <button id="camera-mode" type="button" aria-label="Переключить масштаб камеры">Камера: ближе</button>
     <button id="online-count" type="button" aria-haspopup="dialog" aria-expanded="false">Онлайн …</button>
     <div id="hint">
       <button id="help-toggle" type="button" aria-controls="help-content" aria-expanded="true" aria-label="Свернуть подсказку">−</button>
       <div id="help-content">
-        <strong><span data-icon="info"></span> Управление</strong><br>WASD / стрелки — движение<br>ЛКМ — идти к курсору · E — объект<br>Enter — чат · Esc — отмена
-        <button id="updates-open" type="button" aria-haspopup="dialog" aria-expanded="false">Что нового</button>
+        <strong>Управление</strong><br>WASD / стрелки — движение<br>ЛКМ — идти к курсору · E — объект<br>Enter — чат · Esc — отмена
         <div class="help-rp"><strong>RP-команды</strong><br>/me — действие · /do — описание<br>/try — попытка · /w — шёпот<br>/s — сообщение всем</div>
       </div>
     </div>
-    <div id="account"><span data-icon="user"></span><span id="account-name"></span><span class="coin-balance"><img class="ui-coin" src="/assets/ui/coin-24.png" srcset="/assets/ui/coin-24.png 1x, /assets/ui/coin-48.png 2x, /assets/ui/coin-72.png 3x" alt="Баланс" width="24" height="24"><span id="account-balance">0</span></span><button id="logout" type="button">Выйти</button><span id="connection-status" role="status"></span></div>
-    <div id="interaction-hint" role="status"></div><section id="chat" class="aero-window"><header class="aero-header"><span data-icon="chat"></span> Чат рядом</header><div id="history" role="log" aria-live="polite"></div><input id="message" maxlength="200" placeholder="Enter — написать сообщение" aria-label="Сообщение"></section>
+    <div id="account"><span id="account-name"></span><button id="logout" type="button">Выйти</button><span id="connection-status" role="status"></span></div>
+    <div id="interaction-hint" role="status"></div><section id="chat"><div id="history" role="log" aria-live="polite"></div><input id="message" maxlength="200" placeholder="Enter — написать сообщение" aria-label="Сообщение"></section>
   </div>
 </body>
 </html>
