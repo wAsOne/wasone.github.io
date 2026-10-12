@@ -1,0 +1,707 @@
+[
+  {
+    "path": "/assets/world/ground.svg",
+    "originalBytes": 180,
+    "bytes": 180,
+    "cached": false
+  },
+  {
+    "path": "/assets/world/map_main.svg",
+    "originalBytes": 528,
+    "bytes": 528,
+    "cached": false
+  },
+  {
+    "path": "/assets/ui/bg.jpg",
+    "originalBytes": 408444,
+    "bytes": 317786,
+    "width": 1920,
+    "height": 1080,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/ui/coin-24.png",
+    "originalBytes": 1891,
+    "bytes": 988,
+    "width": 24,
+    "height": 24,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/ui/coin-48.png",
+    "originalBytes": 5213,
+    "bytes": 3090,
+    "width": 48,
+    "height": 48,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/ui/coin-72.png",
+    "originalBytes": 9657,
+    "bytes": 5892,
+    "width": 72,
+    "height": 72,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/ui/coin.png",
+    "originalBytes": 1073491,
+    "bytes": 30456,
+    "width": 216,
+    "height": 216,
+    "resized": true,
+    "cached": false
+  },
+  {
+    "path": "/assets/ui/ghosty-icon.png",
+    "originalBytes": 193313,
+    "bytes": 26726,
+    "width": 192,
+    "height": 215,
+    "resized": true,
+    "cached": false
+  },
+  {
+    "path": "/assets/ui/ghosty-logo-horizontal.png",
+    "originalBytes": 908779,
+    "bytes": 283852,
+    "width": 1260,
+    "height": 342,
+    "resized": true,
+    "cached": false
+  },
+  {
+    "path": "/assets/ui/podium.png",
+    "originalBytes": 70092,
+    "bytes": 35998,
+    "width": 1136,
+    "height": 1988,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/objects/aquarium_bottom.png",
+    "originalBytes": 38504,
+    "bytes": 24266,
+    "width": 402,
+    "height": 810,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/objects/aquarium_glass.png",
+    "originalBytes": 17146,
+    "bytes": 8698,
+    "width": 402,
+    "height": 810,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/objects/aquarium_top.png",
+    "originalBytes": 17487,
+    "bytes": 8312,
+    "width": 402,
+    "height": 810,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/objects/atm_body.png",
+    "originalBytes": 27491,
+    "bytes": 19218,
+    "width": 228,
+    "height": 326,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/objects/atm_dollar.png",
+    "originalBytes": 701,
+    "bytes": 272,
+    "width": 14,
+    "height": 36,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/objects/bubble.png",
+    "originalBytes": 977,
+    "bytes": 634,
+    "width": 25,
+    "height": 25,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/objects/demo-plant.png",
+    "originalBytes": 1565,
+    "bytes": 854,
+    "width": 64,
+    "height": 96,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/objects/fish_orange.png",
+    "originalBytes": 1721,
+    "bytes": 1178,
+    "width": 42,
+    "height": 27,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/objects/fish_pink.png",
+    "originalBytes": 2279,
+    "bytes": 1602,
+    "width": 56,
+    "height": 35,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/objects/fish_purple.png",
+    "originalBytes": 1827,
+    "bytes": 1250,
+    "width": 45,
+    "height": 30,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/objects/floor-cushion.png",
+    "originalBytes": 6063,
+    "bytes": 2836,
+    "width": 242,
+    "height": 161,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/objects/portal.png",
+    "originalBytes": 44157,
+    "bytes": 28438,
+    "width": 509,
+    "height": 798,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/objects/table.png",
+    "originalBytes": 17131,
+    "bytes": 11162,
+    "width": 526,
+    "height": 341,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/objects/vending_machine.svg",
+    "originalBytes": 516,
+    "bytes": 516,
+    "cached": false
+  },
+  {
+    "path": "/assets/objects/decor/clothing-merchant.png",
+    "originalBytes": 18907,
+    "bytes": 12742,
+    "width": 210,
+    "height": 269,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/objects/decor/cushion-2.png",
+    "originalBytes": 12900,
+    "bytes": 8706,
+    "width": 211,
+    "height": 170,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/objects/decor/cushion-3.png",
+    "originalBytes": 8578,
+    "bytes": 5028,
+    "width": 219,
+    "height": 171,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/objects/decor/cushion-4.png",
+    "originalBytes": 12808,
+    "bytes": 8662,
+    "width": 216,
+    "height": 174,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/objects/decor/meme-0.png",
+    "originalBytes": 1676546,
+    "bytes": 1263520,
+    "width": 1983,
+    "height": 793,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/objects/decor/meme-1.png",
+    "originalBytes": 1030250,
+    "bytes": 555760,
+    "width": 2133,
+    "height": 1224,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/objects/decor/meme-2.png",
+    "originalBytes": 42839,
+    "bytes": 26730,
+    "width": 468,
+    "height": 212,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/objects/decor/meme-screen-0.png",
+    "originalBytes": 181868,
+    "bytes": 120172,
+    "width": 524,
+    "height": 586,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/objects/decor/meme-screen-1.png",
+    "originalBytes": 89725,
+    "bytes": 47568,
+    "width": 524,
+    "height": 586,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/objects/decor/meme-screen-2.png",
+    "originalBytes": 110050,
+    "bytes": 66680,
+    "width": 524,
+    "height": 586,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/objects/decor/planter-long.png",
+    "originalBytes": 82975,
+    "bytes": 56672,
+    "width": 548,
+    "height": 503,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/objects/decor/table-2.png",
+    "originalBytes": 28236,
+    "bytes": 18952,
+    "width": 518,
+    "height": 384,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/objects/decor/trash-bin.png",
+    "originalBytes": 6624,
+    "bytes": 4300,
+    "width": 120,
+    "height": 192,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/maps/ghosty-main.png",
+    "originalBytes": 204211,
+    "bytes": 31884,
+    "width": 4096,
+    "height": 2457,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/maps/orbita.jpg",
+    "originalBytes": 1606130,
+    "bytes": 587608,
+    "width": 6476,
+    "height": 3884,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/maps/orbita2.jpg",
+    "originalBytes": 395090,
+    "bytes": 241534,
+    "width": 6476,
+    "height": 3884,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/fruit/arcada.png",
+    "originalBytes": 36824,
+    "bytes": 27249,
+    "width": 254,
+    "height": 400,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/fruit/arcada1.png",
+    "originalBytes": 53765,
+    "bytes": 35080,
+    "width": 259,
+    "height": 400,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/fruit/arcada2.png",
+    "originalBytes": 41801,
+    "bytes": 30416,
+    "width": 252,
+    "height": 400,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/fruit/arcada3.png",
+    "originalBytes": 35082,
+    "bytes": 20796,
+    "width": 254,
+    "height": 400,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/fruit/bomb.png",
+    "originalBytes": 94060,
+    "bytes": 47448,
+    "width": 1312,
+    "height": 1199,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/fruit/busket.png",
+    "originalBytes": 1311875,
+    "bytes": 62948,
+    "width": 435,
+    "height": 290,
+    "resized": true,
+    "cached": false
+  },
+  {
+    "path": "/assets/fruit/flowers1.png",
+    "originalBytes": 30720,
+    "bytes": 18874,
+    "width": 268,
+    "height": 342,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/fruit/flowers2.png",
+    "originalBytes": 60845,
+    "bytes": 39172,
+    "width": 626,
+    "height": 533,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/fonts/Nunito.ttf",
+    "originalBytes": 276932,
+    "bytes": 276932,
+    "cached": false
+  },
+  {
+    "path": "/assets/effects/tomato.png",
+    "originalBytes": 262252,
+    "bytes": 24862,
+    "width": 256,
+    "height": 273,
+    "resized": true,
+    "cached": false
+  },
+  {
+    "path": "/assets/effects/tomato_smashed.png",
+    "originalBytes": 324470,
+    "bytes": 31116,
+    "width": 265,
+    "height": 256,
+    "resized": true,
+    "cached": false
+  },
+  {
+    "path": "/assets/characters/shirts/shirt.png",
+    "originalBytes": 28412,
+    "bytes": 19436,
+    "width": 256,
+    "height": 256,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/characters/shirts/shirt2.png",
+    "originalBytes": 36748,
+    "bytes": 23046,
+    "width": 256,
+    "height": 256,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/characters/shirts/shirt_sample_01.png",
+    "originalBytes": 30831,
+    "bytes": 16068,
+    "width": 256,
+    "height": 256,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/characters/shirts/shirt_sample_02.png",
+    "originalBytes": 7957,
+    "bytes": 2678,
+    "width": 256,
+    "height": 256,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/characters/shirts/shirt_sample_03.png",
+    "originalBytes": 7957,
+    "bytes": 2678,
+    "width": 256,
+    "height": 256,
+    "resized": false,
+    "extension": ".webp",
+    "cached": true
+  },
+  {
+    "path": "/assets/characters/shirts/shirt_sample_04.png",
+    "originalBytes": 7957,
+    "bytes": 2678,
+    "width": 256,
+    "height": 256,
+    "resized": false,
+    "extension": ".webp",
+    "cached": true
+  },
+  {
+    "path": "/assets/characters/shirts/shirt_sample_05.png",
+    "originalBytes": 7957,
+    "bytes": 2678,
+    "width": 256,
+    "height": 256,
+    "resized": false,
+    "extension": ".webp",
+    "cached": true
+  },
+  {
+    "path": "/assets/characters/shirts/shirt_sample_06.png",
+    "originalBytes": 7957,
+    "bytes": 2678,
+    "width": 256,
+    "height": 256,
+    "resized": false,
+    "extension": ".webp",
+    "cached": true
+  },
+  {
+    "path": "/assets/characters/shirts/shirt_sample_07.png",
+    "originalBytes": 7957,
+    "bytes": 2678,
+    "width": 256,
+    "height": 256,
+    "resized": false,
+    "extension": ".webp",
+    "cached": true
+  },
+  {
+    "path": "/assets/characters/shirts/shirt_sample_08.png",
+    "originalBytes": 7957,
+    "bytes": 2678,
+    "width": 256,
+    "height": 256,
+    "resized": false,
+    "extension": ".webp",
+    "cached": true
+  },
+  {
+    "path": "/assets/characters/held/held.png",
+    "originalBytes": 4524,
+    "bytes": 780,
+    "width": 256,
+    "height": 256,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/characters/held/held_sample_01.png",
+    "originalBytes": 4524,
+    "bytes": 780,
+    "width": 256,
+    "height": 256,
+    "resized": false,
+    "extension": ".webp",
+    "cached": true
+  },
+  {
+    "path": "/assets/characters/held/held_sample_02.png",
+    "originalBytes": 4524,
+    "bytes": 780,
+    "width": 256,
+    "height": 256,
+    "resized": false,
+    "extension": ".webp",
+    "cached": true
+  },
+  {
+    "path": "/assets/characters/held/held_sample_03.png",
+    "originalBytes": 4524,
+    "bytes": 780,
+    "width": 256,
+    "height": 256,
+    "resized": false,
+    "extension": ".webp",
+    "cached": true
+  },
+  {
+    "path": "/assets/characters/held/roulette_secret.png",
+    "originalBytes": 4524,
+    "bytes": 780,
+    "width": 256,
+    "height": 256,
+    "resized": false,
+    "extension": ".webp",
+    "cached": true
+  },
+  {
+    "path": "/assets/characters/hats/hat.png",
+    "originalBytes": 30253,
+    "bytes": 14416,
+    "width": 256,
+    "height": 256,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/characters/hats/hat_sample_01.png",
+    "originalBytes": 46503,
+    "bytes": 20912,
+    "width": 256,
+    "height": 256,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/characters/hats/hat_sample_02.png",
+    "originalBytes": 31325,
+    "bytes": 13898,
+    "width": 256,
+    "height": 256,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/characters/hats/hat_sample_03.png",
+    "originalBytes": 5762,
+    "bytes": 1550,
+    "width": 256,
+    "height": 256,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/characters/hats/hat_sample_04.png",
+    "originalBytes": 5762,
+    "bytes": 1550,
+    "width": 256,
+    "height": 256,
+    "resized": false,
+    "extension": ".webp",
+    "cached": true
+  },
+  {
+    "path": "/assets/characters/glasses/glasses.png",
+    "originalBytes": 15433,
+    "bytes": 6760,
+    "width": 256,
+    "height": 256,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/characters/glasses/glasses_sample_01.png",
+    "originalBytes": 16753,
+    "bytes": 7972,
+    "width": 256,
+    "height": 256,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/characters/glasses/glasses_sample_02.png",
+    "originalBytes": 23870,
+    "bytes": 10654,
+    "width": 256,
+    "height": 256,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/characters/glasses/glasses_sample_03.png",
+    "originalBytes": 4574,
+    "bytes": 794,
+    "width": 256,
+    "height": 256,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/characters/glasses/glasses_sample_04.png",
+    "originalBytes": 4574,
+    "bytes": 794,
+    "width": 256,
+    "height": 256,
+    "resized": false,
+    "extension": ".webp",
+    "cached": true
+  },
+  {
+    "path": "/assets/characters/base/ghost_base.png",
+    "originalBytes": 4216,
+    "bytes": 568,
+    "width": 256,
+    "height": 256,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/audio/glossy-utopia.mp3",
+    "originalBytes": 5993079,
+    "bytes": 5993079,
+    "cached": false
+  },
+  {
+    "path": "/assets/audio/tomato_crash.mp3",
+    "originalBytes": 8466,
+    "bytes": 8466,
+    "cached": false
+  }
+]
