@@ -21,6 +21,15 @@
     "cached": false
   },
   {
+    "path": "/assets/ui/bg.webp",
+    "originalBytes": 145608,
+    "bytes": 145608,
+    "width": 1920,
+    "height": 1080,
+    "resized": false,
+    "cached": false
+  },
+  {
     "path": "/assets/ui/coin-24.png",
     "originalBytes": 1891,
     "bytes": 988,
@@ -57,9 +66,27 @@
     "cached": false
   },
   {
+    "path": "/assets/ui/donat.png",
+    "originalBytes": 12187,
+    "bytes": 7290,
+    "width": 86,
+    "height": 73,
+    "resized": false,
+    "cached": false
+  },
+  {
     "path": "/assets/ui/ghosty-icon.png",
     "originalBytes": 193313,
     "bytes": 26726,
+    "width": 192,
+    "height": 215,
+    "resized": true,
+    "cached": false
+  },
+  {
+    "path": "/assets/ui/ghosty-icon.webp",
+    "originalBytes": 16424,
+    "bytes": 29384,
     "width": 192,
     "height": 215,
     "resized": true,
@@ -75,9 +102,27 @@
     "cached": false
   },
   {
+    "path": "/assets/ui/ghosty-logo-horizontal.webp",
+    "originalBytes": 260640,
+    "bytes": 308342,
+    "width": 1260,
+    "height": 342,
+    "resized": true,
+    "cached": false
+  },
+  {
     "path": "/assets/ui/podium.png",
     "originalBytes": 70092,
     "bytes": 35998,
+    "width": 1136,
+    "height": 1988,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/ui/podium.webp",
+    "originalBytes": 27832,
+    "bytes": 27832,
     "width": 1136,
     "height": 1988,
     "resized": false,
@@ -93,9 +138,27 @@
     "cached": false
   },
   {
+    "path": "/assets/objects/aquarium_bottom.webp",
+    "originalBytes": 25002,
+    "bytes": 25002,
+    "width": 402,
+    "height": 810,
+    "resized": false,
+    "cached": false
+  },
+  {
     "path": "/assets/objects/aquarium_glass.png",
     "originalBytes": 17146,
     "bytes": 8698,
+    "width": 402,
+    "height": 810,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/objects/aquarium_glass.webp",
+    "originalBytes": 13912,
+    "bytes": 13912,
     "width": 402,
     "height": 810,
     "resized": false,
@@ -111,9 +174,27 @@
     "cached": false
   },
   {
+    "path": "/assets/objects/aquarium_top.webp",
+    "originalBytes": 8670,
+    "bytes": 8670,
+    "width": 402,
+    "height": 810,
+    "resized": false,
+    "cached": false
+  },
+  {
     "path": "/assets/objects/atm_body.png",
     "originalBytes": 27491,
     "bytes": 19218,
+    "width": 228,
+    "height": 326,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/objects/atm_body.webp",
+    "originalBytes": 12174,
+    "bytes": 12174,
     "width": 228,
     "height": 326,
     "resized": false,
@@ -129,9 +210,27 @@
     "cached": false
   },
   {
+    "path": "/assets/objects/atm_dollar.webp",
+    "originalBytes": 396,
+    "bytes": 396,
+    "width": 14,
+    "height": 36,
+    "resized": false,
+    "cached": false
+  },
+  {
     "path": "/assets/objects/bubble.png",
     "originalBytes": 977,
     "bytes": 634,
+    "width": 25,
+    "height": 25,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/objects/bubble.webp",
+    "originalBytes": 524,
+    "bytes": 524,
     "width": 25,
     "height": 25,
     "resized": false,
@@ -156,6 +255,15 @@
     "cached": false
   },
   {
+    "path": "/assets/objects/fish_orange.webp",
+    "originalBytes": 858,
+    "bytes": 858,
+    "width": 42,
+    "height": 27,
+    "resized": false,
+    "cached": false
+  },
+  {
     "path": "/assets/objects/fish_pink.png",
     "originalBytes": 2279,
     "bytes": 1602,
@@ -165,9 +273,27 @@
     "cached": false
   },
   {
+    "path": "/assets/objects/fish_pink.webp",
+    "originalBytes": 986,
+    "bytes": 986,
+    "width": 56,
+    "height": 35,
+    "resized": false,
+    "cached": false
+  },
+  {
     "path": "/assets/objects/fish_purple.png",
     "originalBytes": 1827,
     "bytes": 1250,
+    "width": 45,
+    "height": 30,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/objects/fish_purple.webp",
+    "originalBytes": 830,
+    "bytes": 830,
     "width": 45,
     "height": 30,
     "resized": false,
@@ -186,6 +312,15 @@
     "path": "/assets/objects/portal.png",
     "originalBytes": 44157,
     "bytes": 28438,
+    "width": 509,
+    "height": 798,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/objects/portal.webp",
+    "originalBytes": 22498,
+    "bytes": 22498,
     "width": 509,
     "height": 798,
     "resized": false,
@@ -216,9 +351,27 @@
     "cached": false
   },
   {
+    "path": "/assets/objects/decor/clothing-merchant.webp",
+    "originalBytes": 8946,
+    "bytes": 8946,
+    "width": 210,
+    "height": 269,
+    "resized": false,
+    "cached": false
+  },
+  {
     "path": "/assets/objects/decor/cushion-2.png",
     "originalBytes": 12900,
     "bytes": 8706,
+    "width": 211,
+    "height": 170,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/objects/decor/cushion-2.webp",
+    "originalBytes": 5376,
+    "bytes": 5376,
     "width": 211,
     "height": 170,
     "resized": false,
@@ -234,9 +387,27 @@
     "cached": false
   },
   {
+    "path": "/assets/objects/decor/cushion-3.webp",
+    "originalBytes": 4128,
+    "bytes": 4128,
+    "width": 219,
+    "height": 171,
+    "resized": false,
+    "cached": false
+  },
+  {
     "path": "/assets/objects/decor/cushion-4.png",
     "originalBytes": 12808,
     "bytes": 8662,
+    "width": 216,
+    "height": 174,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/objects/decor/cushion-4.webp",
+    "originalBytes": 5510,
+    "bytes": 5510,
     "width": 216,
     "height": 174,
     "resized": false,
@@ -279,9 +450,27 @@
     "cached": false
   },
   {
+    "path": "/assets/objects/decor/meme-screen-0.webp",
+    "originalBytes": 46284,
+    "bytes": 46284,
+    "width": 524,
+    "height": 586,
+    "resized": false,
+    "cached": false
+  },
+  {
     "path": "/assets/objects/decor/meme-screen-1.png",
     "originalBytes": 89725,
     "bytes": 47568,
+    "width": 524,
+    "height": 586,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/objects/decor/meme-screen-1.webp",
+    "originalBytes": 28292,
+    "bytes": 28292,
     "width": 524,
     "height": 586,
     "resized": false,
@@ -297,9 +486,27 @@
     "cached": false
   },
   {
+    "path": "/assets/objects/decor/meme-screen-2.webp",
+    "originalBytes": 36590,
+    "bytes": 36590,
+    "width": 524,
+    "height": 586,
+    "resized": false,
+    "cached": false
+  },
+  {
     "path": "/assets/objects/decor/planter-long.png",
     "originalBytes": 82975,
     "bytes": 56672,
+    "width": 548,
+    "height": 503,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/objects/decor/planter-long.webp",
+    "originalBytes": 32746,
+    "bytes": 32746,
     "width": 548,
     "height": 503,
     "resized": false,
@@ -315,6 +522,15 @@
     "cached": false
   },
   {
+    "path": "/assets/objects/decor/table-2.webp",
+    "originalBytes": 15608,
+    "bytes": 15608,
+    "width": 518,
+    "height": 384,
+    "resized": false,
+    "cached": false
+  },
+  {
     "path": "/assets/objects/decor/trash-bin.png",
     "originalBytes": 6624,
     "bytes": 4300,
@@ -324,9 +540,27 @@
     "cached": false
   },
   {
+    "path": "/assets/objects/decor/trash-bin.webp",
+    "originalBytes": 2870,
+    "bytes": 2870,
+    "width": 120,
+    "height": 192,
+    "resized": false,
+    "cached": false
+  },
+  {
     "path": "/assets/maps/ghosty-main.png",
     "originalBytes": 204211,
     "bytes": 31884,
+    "width": 4096,
+    "height": 2457,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/maps/ghosty-main.webp",
+    "originalBytes": 113286,
+    "bytes": 113286,
     "width": 4096,
     "height": 2457,
     "resized": false,
@@ -360,9 +594,18 @@
     "cached": false
   },
   {
+    "path": "/assets/fruit/arcada.webp",
+    "originalBytes": 17990,
+    "bytes": 17990,
+    "width": 254,
+    "height": 400,
+    "resized": false,
+    "cached": false
+  },
+  {
     "path": "/assets/fruit/arcada1.png",
-    "originalBytes": 53765,
-    "bytes": 35080,
+    "originalBytes": 37990,
+    "bytes": 35150,
     "width": 259,
     "height": 400,
     "resized": false,
@@ -370,8 +613,8 @@
   },
   {
     "path": "/assets/fruit/arcada2.png",
-    "originalBytes": 41801,
-    "bytes": 30416,
+    "originalBytes": 30046,
+    "bytes": 30046,
     "width": 252,
     "height": 400,
     "resized": false,
@@ -379,8 +622,8 @@
   },
   {
     "path": "/assets/fruit/arcada3.png",
-    "originalBytes": 35082,
-    "bytes": 20796,
+    "originalBytes": 24346,
+    "bytes": 20606,
     "width": 254,
     "height": 400,
     "resized": false,
@@ -405,9 +648,18 @@
     "cached": false
   },
   {
+    "path": "/assets/fruit/busket.webp",
+    "originalBytes": 59046,
+    "bytes": 64614,
+    "width": 435,
+    "height": 290,
+    "resized": true,
+    "cached": false
+  },
+  {
     "path": "/assets/fruit/flowers1.png",
-    "originalBytes": 30720,
-    "bytes": 18874,
+    "originalBytes": 21650,
+    "bytes": 18952,
     "width": 268,
     "height": 342,
     "resized": false,
@@ -415,8 +667,8 @@
   },
   {
     "path": "/assets/fruit/flowers2.png",
-    "originalBytes": 60845,
-    "bytes": 39172,
+    "originalBytes": 45754,
+    "bytes": 39116,
     "width": 626,
     "height": 533,
     "resized": false,
@@ -431,7 +683,16 @@
   {
     "path": "/assets/effects/tomato.png",
     "originalBytes": 262252,
-    "bytes": 24862,
+    "bytes": 179858,
+    "width": 833,
+    "height": 887,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/effects/tomato.webp",
+    "originalBytes": 31412,
+    "bytes": 22632,
     "width": 256,
     "height": 273,
     "resized": true,
@@ -440,36 +701,54 @@
   {
     "path": "/assets/effects/tomato_smashed.png",
     "originalBytes": 324470,
-    "bytes": 31116,
+    "bytes": 225116,
+    "width": 917,
+    "height": 887,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/effects/tomato_smashed.webp",
+    "originalBytes": 63698,
+    "bytes": 31170,
     "width": 265,
     "height": 256,
     "resized": true,
     "cached": false
   },
   {
+    "path": "/assets/characters/shirts/dragonfly_shirt_512.png",
+    "originalBytes": 34135,
+    "bytes": 19022,
+    "width": 512,
+    "height": 512,
+    "resized": false,
+    "cached": false
+  },
+  {
     "path": "/assets/characters/shirts/shirt.png",
-    "originalBytes": 28412,
-    "bytes": 19436,
-    "width": 256,
-    "height": 256,
+    "originalBytes": 32291,
+    "bytes": 19248,
+    "width": 512,
+    "height": 512,
     "resized": false,
     "cached": false
   },
   {
     "path": "/assets/characters/shirts/shirt2.png",
-    "originalBytes": 36748,
-    "bytes": 23046,
-    "width": 256,
-    "height": 256,
+    "originalBytes": 40921,
+    "bytes": 23742,
+    "width": 512,
+    "height": 512,
     "resized": false,
     "cached": false
   },
   {
     "path": "/assets/characters/shirts/shirt_sample_01.png",
-    "originalBytes": 30831,
-    "bytes": 16068,
-    "width": 256,
-    "height": 256,
+    "originalBytes": 34012,
+    "bytes": 16816,
+    "width": 512,
+    "height": 512,
     "resized": false,
     "cached": false
   },
@@ -592,29 +871,47 @@
     "cached": true
   },
   {
+    "path": "/assets/characters/held/stepashka_pistol_512.png",
+    "originalBytes": 22021,
+    "bytes": 10154,
+    "width": 512,
+    "height": 512,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/characters/hats/dragonfly_wig_512.png",
+    "originalBytes": 89541,
+    "bytes": 58544,
+    "width": 512,
+    "height": 512,
+    "resized": false,
+    "cached": false
+  },
+  {
     "path": "/assets/characters/hats/hat.png",
-    "originalBytes": 30253,
-    "bytes": 14416,
-    "width": 256,
-    "height": 256,
+    "originalBytes": 35047,
+    "bytes": 13960,
+    "width": 512,
+    "height": 512,
     "resized": false,
     "cached": false
   },
   {
     "path": "/assets/characters/hats/hat_sample_01.png",
-    "originalBytes": 46503,
-    "bytes": 20912,
-    "width": 256,
-    "height": 256,
+    "originalBytes": 51802,
+    "bytes": 20732,
+    "width": 512,
+    "height": 512,
     "resized": false,
     "cached": false
   },
   {
     "path": "/assets/characters/hats/hat_sample_02.png",
-    "originalBytes": 31325,
-    "bytes": 13898,
-    "width": 256,
-    "height": 256,
+    "originalBytes": 34691,
+    "bytes": 14532,
+    "width": 512,
+    "height": 512,
     "resized": false,
     "cached": false
   },
@@ -638,29 +935,38 @@
     "cached": true
   },
   {
+    "path": "/assets/characters/hats/stepashka_helmet_512.png",
+    "originalBytes": 49469,
+    "bytes": 29874,
+    "width": 512,
+    "height": 512,
+    "resized": false,
+    "cached": false
+  },
+  {
     "path": "/assets/characters/glasses/glasses.png",
-    "originalBytes": 15433,
-    "bytes": 6760,
-    "width": 256,
-    "height": 256,
+    "originalBytes": 18904,
+    "bytes": 7080,
+    "width": 512,
+    "height": 512,
     "resized": false,
     "cached": false
   },
   {
     "path": "/assets/characters/glasses/glasses_sample_01.png",
-    "originalBytes": 16753,
-    "bytes": 7972,
-    "width": 256,
-    "height": 256,
+    "originalBytes": 20334,
+    "bytes": 8428,
+    "width": 512,
+    "height": 512,
     "resized": false,
     "cached": false
   },
   {
     "path": "/assets/characters/glasses/glasses_sample_02.png",
-    "originalBytes": 23870,
-    "bytes": 10654,
-    "width": 256,
-    "height": 256,
+    "originalBytes": 26549,
+    "bytes": 10760,
+    "width": 512,
+    "height": 512,
     "resized": false,
     "cached": false
   },
@@ -696,6 +1002,12 @@
     "path": "/assets/audio/glossy-utopia.mp3",
     "originalBytes": 5993079,
     "bytes": 5993079,
+    "cached": false
+  },
+  {
+    "path": "/assets/audio/glossy-utopia.ogg",
+    "originalBytes": 3206292,
+    "bytes": 3206292,
     "cached": false
   },
   {

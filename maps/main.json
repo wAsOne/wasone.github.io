@@ -5,7 +5,7 @@
  "layers":[
         {
          "id":7,
-         "image":"..\/assets\/maps\/ghosty-main.png",
+         "image":"..\/assets\/maps\/ghosty-main.webp",
          "imageheight":2457,
          "imagewidth":4096,
          "name":"Background terrain",
@@ -1584,17 +1584,17 @@
                                 {
                                  "name":"frame1",
                                  "type":"file",
-                                 "value":"..\/assets\/objects\/decor\/meme-screen-0.png"
+                                 "value":"..\/assets\/objects\/decor\/meme-screen-0.webp"
                                 }, 
                                 {
                                  "name":"frame2",
                                  "type":"file",
-                                 "value":"..\/assets\/objects\/decor\/meme-screen-1.png"
+                                 "value":"..\/assets\/objects\/decor\/meme-screen-1.webp"
                                 }, 
                                 {
                                  "name":"frame3",
                                  "type":"file",
-                                 "value":"..\/assets\/objects\/decor\/meme-screen-2.png"
+                                 "value":"..\/assets\/objects\/decor\/meme-screen-2.webp"
                                 }],
                          "rotation":0,
                          "type":"",
@@ -2723,7 +2723,7 @@
                                 {
                                  "name":"sprite",
                                  "type":"file",
-                                 "value":"..\/assets\/objects\/decor\/clothing-merchant.png"
+                                 "value":"..\/assets\/objects\/decor\/clothing-merchant.webp"
                                 }],
                          "rotation":0,
                          "type":"shop",
@@ -2778,7 +2778,7 @@
                 }, 
                 {
                  "id":11,
-                 "image":"..\/assets\/objects\/portal.png",
+                 "image":"..\/assets\/objects\/portal.webp",
                  "imageheight":798,
                  "imagewidth":509
                 }, 
@@ -2796,61 +2796,61 @@
                 }, 
                 {
                  "id":2,
-                 "image":"..\/assets\/objects\/atm_body.png",
+                 "image":"..\/assets\/objects\/atm_body.webp",
                  "imageheight":326,
                  "imagewidth":228
                 }, 
                 {
                  "id":3,
-                 "image":"..\/assets\/objects\/atm_dollar.png",
+                 "image":"..\/assets\/objects\/atm_dollar.webp",
                  "imageheight":36,
                  "imagewidth":14
                 }, 
                 {
                  "id":4,
-                 "image":"..\/assets\/objects\/aquarium_bottom.png",
+                 "image":"..\/assets\/objects\/aquarium_bottom.webp",
                  "imageheight":810,
                  "imagewidth":402
                 }, 
                 {
                  "id":5,
-                 "image":"..\/assets\/objects\/aquarium_glass.png",
+                 "image":"..\/assets\/objects\/aquarium_glass.webp",
                  "imageheight":810,
                  "imagewidth":402
                 }, 
                 {
                  "id":6,
-                 "image":"..\/assets\/objects\/aquarium_top.png",
+                 "image":"..\/assets\/objects\/aquarium_top.webp",
                  "imageheight":810,
                  "imagewidth":402
                 }, 
                 {
                  "id":7,
-                 "image":"..\/assets\/objects\/fish_pink.png",
+                 "image":"..\/assets\/objects\/fish_pink.webp",
                  "imageheight":35,
                  "imagewidth":56
                 }, 
                 {
                  "id":8,
-                 "image":"..\/assets\/objects\/fish_purple.png",
+                 "image":"..\/assets\/objects\/fish_purple.webp",
                  "imageheight":30,
                  "imagewidth":45
                 }, 
                 {
                  "id":9,
-                 "image":"..\/assets\/objects\/fish_orange.png",
+                 "image":"..\/assets\/objects\/fish_orange.webp",
                  "imageheight":27,
                  "imagewidth":42
                 }, 
                 {
                  "id":10,
-                 "image":"..\/assets\/objects\/bubble.png",
+                 "image":"..\/assets\/objects\/bubble.webp",
                  "imageheight":25,
                  "imagewidth":25
                 }, 
                 {
                  "id":13,
-                 "image":"..\/assets\/fruit\/arcada.png",
+                 "image":"..\/assets\/fruit\/arcada.webp",
                  "imageheight":400,
                  "imagewidth":254
                 }, 
@@ -2868,25 +2868,25 @@
                 }, 
                 {
                  "id":16,
-                 "image":"..\/assets\/objects\/decor\/meme-screen-0.png",
+                 "image":"..\/assets\/objects\/decor\/meme-screen-0.webp",
                  "imageheight":586,
                  "imagewidth":524
                 }, 
                 {
                  "id":17,
-                 "image":"..\/assets\/objects\/decor\/cushion-2.png",
+                 "image":"..\/assets\/objects\/decor\/cushion-2.webp",
                  "imageheight":170,
                  "imagewidth":211
                 }, 
                 {
                  "id":18,
-                 "image":"..\/assets\/objects\/decor\/cushion-3.png",
+                 "image":"..\/assets\/objects\/decor\/cushion-3.webp",
                  "imageheight":171,
                  "imagewidth":219
                 }, 
                 {
                  "id":19,
-                 "image":"..\/assets\/objects\/decor\/cushion-4.png",
+                 "image":"..\/assets\/objects\/decor\/cushion-4.webp",
                  "imageheight":174,
                  "imagewidth":216
                 }, 
@@ -2898,13 +2898,13 @@
                 }, 
                 {
                  "id":21,
-                 "image":"..\/assets\/objects\/decor\/planter-long.png",
+                 "image":"..\/assets\/objects\/decor\/planter-long.webp",
                  "imageheight":503,
                  "imagewidth":548
                 }, 
                 {
                  "id":22,
-                 "image":"..\/assets\/objects\/decor\/table-2.png",
+                 "image":"..\/assets\/objects\/decor\/table-2.webp",
                  "imageheight":384,
                  "imagewidth":518
                 }, 
@@ -2916,13 +2916,13 @@
                 }, 
                 {
                  "id":24,
-                 "image":"..\/assets\/objects\/decor\/trash-bin.png",
+                 "image":"..\/assets\/objects\/decor\/trash-bin.webp",
                  "imageheight":192,
                  "imagewidth":120
                 }, 
                 {
                  "id":25,
-                 "image":"..\/assets\/objects\/decor\/clothing-merchant.png",
+                 "image":"..\/assets\/objects\/decor\/clothing-merchant.webp",
                  "imageheight":269,
                  "imagewidth":210
                 }],
