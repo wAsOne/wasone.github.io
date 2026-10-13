@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="ru">
+<head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="application-name" content="Ghosty"><meta name="description" content="Ghosty — общая карта и разговоры рядом"><link rel="icon" type="image/png" href="/assets/optimized/64177aec54471ce794b3f857.webp"><title>Ghosty — общая карта</title>  <script type="module" crossorigin src="/assets/index-oCJfqd_c.js"></script>
+  <link rel="stylesheet" crossorigin href="/assets/index-CuCEmFqH.css">
+</head>
+<body>
+  <div id="game"></div>
+  <main id="login">
+    <div class="auth-shell">
+      <img class="auth-logo" src="/assets/optimized/da4525d616e0a386eac85818.webp" alt="Ghosty" width="1957" height="531">
+      <form id="login-form" class="aero-window">
+        <header class="aero-header"><span data-icon="user"></span> Добро пожаловать в Ghosty</header>
+        <div class="auth-layout">
+          <div class="auth-fields">
+            <div class="auth-tabs aero-tabs" role="group" aria-label="Вход или регистрация">
+              <button id="auth-login" type="button" aria-pressed="true">Вход</button>
+              <button id="auth-toggle" type="button" class="secondary" aria-pressed="false">Регистрация</button>
+            </div>
+            <p class="auth-intro">Твой маленький мир больших знакомств.</p>
+            <div id="auth-credentials">
+            <label for="nickname">Имя пользователя</label>
+            <div class="input-icon"><span data-icon="user"></span><input id="nickname" minlength="2" maxlength="20" required autocomplete="username" placeholder="Как вас зовут?"></div>
+            <label id="register-email-field" hidden>Email <input id="register-email" type="email" maxlength="254" autocomplete="email"></label>
+            <label for="password">Пароль</label>
+            <div class="input-icon"><span data-icon="lock"></span><input id="password" type="password" minlength="10" maxlength="128" required autocomplete="current-password" placeholder="Не менее 10 символов"></div>
+            <button id="auth-submit" class="aero-button-primary" type="submit">Войти</button>
+            </div>
+            <section id="registration-waiting" role="status" hidden>
+              <h2>Подтвердите вашу почту</h2>
+              <p>Мы отправили письмо со ссылкой для подтверждения на указанный адрес. Откройте письмо и перейдите по ссылке, чтобы завершить регистрацию</p>
+              <p>Не нашли письмо? Проверьте папку „Спам“</p>
+            </section>
+            <button id="email-forgot" type="button" class="secondary" hidden>Забыли пароль?</button>
+            <p id="error" role="alert"></p>
+          </div>
+          <aside class="auth-character">
+            <div class="character-podium"><div id="register-preview" class="preview-host"></div></div>
+            <section id="registration" hidden>
+              <button id="reroll" type="button">Другой цвет</button>
+              <p class="small">Цвет выбирает сервер. После регистрации он сохраняется.</p>
+            </section>
+          </aside>
+        </div>
+        <footer class="auth-status" id="auth-status" role="status">Проверяем подключение…</footer>
+      </form>
+    </div>
+  </main>
+  <div id="hud" hidden>
+    <button id="email-manage" type="button" hidden>Почта и доступ</button>
+    <button id="wardrobe-toggle" type="button" title="Гардероб" aria-label="Гардероб" aria-haspopup="dialog" aria-expanded="false"><span data-icon="shirt"></span></button>
+    <button id="camera-mode" type="button" aria-label="Переключить масштаб камеры">Камера: ближе</button>
+    <button id="online-count" type="button" aria-haspopup="dialog" aria-expanded="false">Онлайн …</button>
+    <div id="hint">
+      <button id="help-toggle" type="button" aria-controls="help-content" aria-expanded="true" aria-label="Свернуть подсказку">−</button>
+      <div id="help-content">
+        <strong><span data-icon="info"></span> Управление</strong><br>WASD / стрелки — движение<br>ЛКМ — идти к курсору · E — объект<br>Enter — чат · Esc — отмена
+        <button id="updates-open" type="button" aria-haspopup="dialog" aria-expanded="false">Что нового</button>
+        <div class="help-rp"><strong>RP-команды</strong><br>/me — действие · /do — описание<br>/try — попытка · /w — шёпот<br>/s — сообщение всем<br>/happy — ^_^ · /squint — &gt;_&lt; (3 сек.)</div>
+      </div>
+    </div>
+    <div id="account"><span data-icon="user"></span><span id="account-name"></span><span class="coin-balance"><img class="ui-coin" src="/assets/optimized/cbdcff1940af0a6d03dc1823.webp" srcset="/assets/optimized/cbdcff1940af0a6d03dc1823.webp 1x, /assets/optimized/750fd7b86b1df84c87f558a7.webp 2x, /assets/optimized/5fda96710571840c19f7342e.webp 3x" alt="Баланс" width="24" height="24"><span id="account-balance">0</span></span><button id="logout" type="button">Выйти</button><span id="connection-status" role="status"></span></div>
+    <div id="interaction-hint" role="status"></div><section id="chat" class="aero-window"><header class="aero-header"><span data-icon="chat"></span> Чат рядом</header><div id="history" role="log" aria-live="polite"></div><input id="message" maxlength="200" placeholder="Enter — написать сообщение" aria-label="Сообщение"></section>
+  </div>
+  <script>
+    // Pages caches HTML for ten minutes. Check the entry document on ordinary reload;
+    // a changed module filename means a new map and client bundle are available.
+    void fetch(location.pathname, {cache:'no-store'}).then(response => response.ok ? response.text() : '').then(html => {
+      if (!html) return;
+      const fresh = new DOMParser().parseFromString(html, 'text/html').querySelector('script[type="module"][src]');
+      const current = document.querySelector('script[type="module"][src]');
+      const nextScript = fresh?.getAttribute('src');
+      if (!nextScript || !current || nextScript === current.getAttribute('src')) return;
+      const version = new URL(nextScript, location.href).pathname.split('/').pop();
+      const url = new URL(location.href);
+      if (url.searchParams.get('_ghosty') === version) return;
+      url.searchParams.set('_ghosty', version);
+      location.replace(url.href);
+    }).catch(() => undefined);
+  </script>
+</body>
+</html>
+
