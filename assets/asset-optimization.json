@@ -549,6 +549,15 @@
     "cached": false
   },
   {
+    "path": "/assets/maps/ghosty-fishing.png",
+    "originalBytes": 226225,
+    "bytes": 38140,
+    "width": 4096,
+    "height": 2457,
+    "resized": false,
+    "cached": false
+  },
+  {
     "path": "/assets/maps/ghosty-main.png",
     "originalBytes": 204211,
     "bytes": 31884,
@@ -678,6 +687,303 @@
     "path": "/assets/fonts/Nunito.ttf",
     "originalBytes": 276932,
     "bytes": 276932,
+    "cached": false
+  },
+  {
+    "path": "/assets/fishing/fisher-npc.webp",
+    "originalBytes": 13508,
+    "bytes": 13508,
+    "width": 326,
+    "height": 348,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/fishing/float.webp",
+    "originalBytes": 1272,
+    "bytes": 1272,
+    "width": 50,
+    "height": 50,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/fishing/pool1.png",
+    "originalBytes": 319923,
+    "bytes": 124334,
+    "width": 2134,
+    "height": 1137,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/fishing/pool2.png",
+    "originalBytes": 521186,
+    "bytes": 220908,
+    "width": 2134,
+    "height": 1137,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/fishing/rod.webp",
+    "originalBytes": 16204,
+    "bytes": 16204,
+    "width": 512,
+    "height": 512,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/fishing/sfx/fishing_bite.ogg",
+    "originalBytes": 11327,
+    "bytes": 11327,
+    "cached": false
+  },
+  {
+    "path": "/assets/fishing/sfx/fishing_cast.ogg",
+    "originalBytes": 9696,
+    "bytes": 9696,
+    "cached": false
+  },
+  {
+    "path": "/assets/fishing/sfx/fishing_fail.ogg",
+    "originalBytes": 15291,
+    "bytes": 15291,
+    "cached": false
+  },
+  {
+    "path": "/assets/fishing/sfx/fishing_hook.ogg",
+    "originalBytes": 11072,
+    "bytes": 11072,
+    "cached": false
+  },
+  {
+    "path": "/assets/fishing/sfx/fishing_reel.ogg",
+    "originalBytes": 659228,
+    "bytes": 659228,
+    "cached": false
+  },
+  {
+    "path": "/assets/fishing/sfx/fishing_social.ogg",
+    "originalBytes": 6096,
+    "bytes": 6096,
+    "cached": false
+  },
+  {
+    "path": "/assets/fishing/sfx/fishing_success.ogg",
+    "originalBytes": 14087,
+    "bytes": 14087,
+    "cached": false
+  },
+  {
+    "path": "/assets/fishing/sfx/fishing_water.ogg",
+    "originalBytes": 13314,
+    "bytes": 13314,
+    "cached": false
+  },
+  {
+    "path": "/assets/fishing/sfx/water_loop.ogg",
+    "originalBytes": 730460,
+    "bytes": 730460,
+    "cached": false
+  },
+  {
+    "path": "/assets/fishing/fish/anthias.webp",
+    "originalBytes": 12644,
+    "bytes": 12644,
+    "width": 287,
+    "height": 287,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/fishing/fish/axolotl.webp",
+    "originalBytes": 15216,
+    "bytes": 15216,
+    "width": 287,
+    "height": 287,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/fishing/fish/barrel.webp",
+    "originalBytes": 12116,
+    "bytes": 12116,
+    "width": 287,
+    "height": 287,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/fishing/fish/blob.webp",
+    "originalBytes": 5206,
+    "bytes": 5206,
+    "width": 287,
+    "height": 287,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/fishing/fish/box.webp",
+    "originalBytes": 10530,
+    "bytes": 10530,
+    "width": 287,
+    "height": 287,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/fishing/fish/bubble.webp",
+    "originalBytes": 8010,
+    "bytes": 8010,
+    "width": 287,
+    "height": 287,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/fishing/fish/clown.webp",
+    "originalBytes": 7728,
+    "bytes": 7728,
+    "width": 287,
+    "height": 287,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/fishing/fish/cowocean.webp",
+    "originalBytes": 7244,
+    "bytes": 7244,
+    "width": 287,
+    "height": 287,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/fishing/fish/discus.png",
+    "originalBytes": 89278,
+    "bytes": 55880,
+    "width": 287,
+    "height": 287,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/fishing/fish/dragon.webp",
+    "originalBytes": 23844,
+    "bytes": 23844,
+    "width": 287,
+    "height": 287,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/fishing/fish/dragonfly.webp",
+    "originalBytes": 21288,
+    "bytes": 21288,
+    "width": 287,
+    "height": 287,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/fishing/fish/fugu.webp",
+    "originalBytes": 8224,
+    "bytes": 8224,
+    "width": 287,
+    "height": 287,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/fishing/fish/ghost.webp",
+    "originalBytes": 17420,
+    "bytes": 17420,
+    "width": 287,
+    "height": 287,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/fishing/fish/knife.webp",
+    "originalBytes": 8450,
+    "bytes": 8450,
+    "width": 287,
+    "height": 287,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/fishing/fish/lantern.webp",
+    "originalBytes": 14104,
+    "bytes": 14104,
+    "width": 287,
+    "height": 287,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/fishing/fish/lion.webp",
+    "originalBytes": 28688,
+    "bytes": 28688,
+    "width": 287,
+    "height": 287,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/fishing/fish/moon.webp",
+    "originalBytes": 11434,
+    "bytes": 11434,
+    "width": 287,
+    "height": 287,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/fishing/fish/moray.webp",
+    "originalBytes": 17904,
+    "bytes": 17904,
+    "width": 287,
+    "height": 287,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/fishing/fish/penguin.webp",
+    "originalBytes": 9830,
+    "bytes": 9830,
+    "width": 287,
+    "height": 287,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/fishing/fish/piranha.png",
+    "originalBytes": 48745,
+    "bytes": 38692,
+    "width": 287,
+    "height": 287,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/fishing/fish/skeleton.webp",
+    "originalBytes": 14954,
+    "bytes": 14954,
+    "width": 287,
+    "height": 287,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/fishing/fish/surgeon.webp",
+    "originalBytes": 11434,
+    "bytes": 11434,
+    "width": 287,
+    "height": 287,
+    "resized": false,
     "cached": false
   },
   {
