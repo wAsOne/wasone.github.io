@@ -736,8 +736,8 @@
   },
   {
     "path": "/assets/fishing/sfx/fishing_bite.ogg",
-    "originalBytes": 11327,
-    "bytes": 11327,
+    "originalBytes": 4227,
+    "bytes": 4227,
     "cached": false
   },
   {
@@ -760,8 +760,8 @@
   },
   {
     "path": "/assets/fishing/sfx/fishing_reel.ogg",
-    "originalBytes": 659228,
-    "bytes": 659228,
+    "originalBytes": 640905,
+    "bytes": 640905,
     "cached": false
   },
   {
