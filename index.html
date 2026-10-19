@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="ru">
-<head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="application-name" content="Ghosty"><meta name="description" content="Ghosty — общая карта и разговоры рядом"><link rel="icon" type="image/webp" href="/assets/optimized/fcdd38045c6e85af35e6d9dc.webp"><title>Ghosty — общая карта</title>  <script type="module" crossorigin src="/assets/index-BRhq-sID.js"></script>
-  <link rel="stylesheet" crossorigin href="/assets/index-Dlogc3Qc.css">
+<head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover,interactive-widget=resizes-content"><meta name="application-name" content="Ghosty"><meta name="description" content="Ghosty — общая карта и разговоры рядом"><link rel="icon" type="image/webp" href="/assets/optimized/fcdd38045c6e85af35e6d9dc.webp"><title>Ghosty — общая карта</title>  <script type="module" crossorigin src="/assets/index-DQQFkGiw.js"></script>
+  <link rel="stylesheet" crossorigin href="/assets/index-BT-81O9t.css">
 </head>
 <body>
   <div id="game"></div>
@@ -59,7 +59,8 @@
       </div>
     </div>
     <div id="account"><span data-icon="user"></span><span id="account-name"></span><span class="coin-balance"><img class="ui-coin" src="/assets/optimized/cbdcff1940af0a6d03dc1823.webp" srcset="/assets/optimized/cbdcff1940af0a6d03dc1823.webp 1x, /assets/optimized/750fd7b86b1df84c87f558a7.webp 2x, /assets/optimized/5fda96710571840c19f7342e.webp 3x" alt="Баланс" width="24" height="24"><span id="account-balance">0</span></span><button id="logout" type="button">Выйти</button><span id="connection-status" role="status"></span></div>
-    <div id="interaction-hint" role="status"></div><section id="chat" class="aero-window"><header class="aero-header"><span data-icon="chat"></span> Чат рядом</header><div id="history" role="log" aria-live="polite"></div><input id="message" maxlength="200" placeholder="Enter — написать сообщение" aria-label="Сообщение"></section>
+    <button id="chat-toggle" type="button" aria-controls="chat" aria-expanded="false">Чат</button><button id="touch-interact" type="button" hidden></button>
+    <div id="interaction-hint" role="status"></div><section id="chat" class="aero-window"><header class="aero-header"><span data-icon="chat"></span> Чат рядом<button id="chat-close" type="button" aria-label="Свернуть чат">×</button></header><div id="history" role="log" aria-live="polite"></div><div id="chat-composer"><input id="message" maxlength="200" placeholder="Enter — написать сообщение" aria-label="Сообщение" enterkeyhint="send"><button id="chat-send" type="button">Отправить</button></div></section>
   </div>
   <script>
     // Pages caches HTML for ten minutes. Check the entry document on ordinary reload;

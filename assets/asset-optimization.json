@@ -735,6 +735,42 @@
     "cached": false
   },
   {
+    "path": "/assets/fishing/tackle/fast.png",
+    "originalBytes": 332324,
+    "bytes": 196470,
+    "width": 752,
+    "height": 722,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/fishing/tackle/improved.png",
+    "originalBytes": 114503,
+    "bytes": 56768,
+    "width": 512,
+    "height": 512,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/fishing/tackle/none.png",
+    "originalBytes": 341512,
+    "bytes": 236830,
+    "width": 752,
+    "height": 722,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/fishing/tackle/rare.png",
+    "originalBytes": 352413,
+    "bytes": 239486,
+    "width": 752,
+    "height": 722,
+    "resized": false,
+    "cached": false
+  },
+  {
     "path": "/assets/fishing/sfx/fishing_bite.ogg",
     "originalBytes": 13158,
     "bytes": 13158,
@@ -1320,6 +1356,18 @@
     "path": "/assets/audio/tomato_crash.mp3",
     "originalBytes": 8466,
     "bytes": 8466,
+    "cached": false
+  },
+  {
+    "path": "/assets/audio/chat/incoming.mp3",
+    "originalBytes": 35108,
+    "bytes": 35108,
+    "cached": false
+  },
+  {
+    "path": "/assets/audio/chat/outgoing.mp3",
+    "originalBytes": 35108,
+    "bytes": 35108,
     "cached": false
   }
 ]
