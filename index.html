@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="ru">
-<head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover,interactive-widget=resizes-content"><meta name="application-name" content="Ghosty"><meta name="description" content="Ghosty — общая карта и разговоры рядом"><link rel="icon" type="image/webp" href="/assets/optimized/fcdd38045c6e85af35e6d9dc.webp"><title>Ghosty — общая карта</title>  <script type="module" crossorigin src="/assets/index-DQQFkGiw.js"></script>
-  <link rel="stylesheet" crossorigin href="/assets/index-BT-81O9t.css">
+<head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover,interactive-widget=resizes-content"><meta name="application-name" content="Ghosty"><meta name="description" content="Ghosty — общая карта и разговоры рядом"><link rel="icon" type="image/webp" href="/assets/optimized/fcdd38045c6e85af35e6d9dc.webp"><title>Ghosty — общая карта</title>  <script type="module" crossorigin src="/assets/index-DOUtMvG5.js"></script>
+  <link rel="stylesheet" crossorigin href="/assets/index-BCJRYEDp.css">
 </head>
 <body>
   <div id="game"></div>
@@ -46,6 +46,14 @@
     </div>
   </main>
   <div id="hud" hidden>
+    <div id="hud-stats"></div>
+    <div id="hud-panels">
+      <button id="notifications-toggle" type="button" aria-label="Уведомления" aria-expanded="false" aria-controls="notifications-panel"><span data-icon="bell"></span><span id="notification-dot" hidden></span></button>
+      <button id="settings-toggle" type="button" aria-label="Настройки" aria-expanded="false" aria-controls="settings-panel"><span data-icon="gear"></span></button>
+      <section id="notifications-panel" class="hud-popover" aria-label="Уведомления" hidden><strong>Уведомления</strong><p id="notification-summary">Новых уведомлений нет</p><label><input id="notifications-enabled" type="checkbox" checked> Напоминать о доступных действиях</label></section>
+      <section id="settings-panel" class="hud-popover" aria-label="Настройки" hidden><strong>Настройки</strong></section>
+    </div>
+    <div id="taskbar"><div id="taskbar-actions"></div><div id="taskbar-audio"></div></div>
     <button id="email-manage" type="button" hidden>Почта и доступ</button>
     <button id="wardrobe-toggle" type="button" title="Гардероб" aria-label="Гардероб" aria-haspopup="dialog" aria-expanded="false"><span data-icon="shirt"></span></button>
     <button id="camera-mode" type="button" aria-label="Переключить масштаб камеры">Камера: ближе</button>
@@ -60,7 +68,8 @@
     </div>
     <div id="account"><span data-icon="user"></span><span id="account-name"></span><span class="coin-balance"><img class="ui-coin" src="/assets/optimized/cbdcff1940af0a6d03dc1823.webp" srcset="/assets/optimized/cbdcff1940af0a6d03dc1823.webp 1x, /assets/optimized/750fd7b86b1df84c87f558a7.webp 2x, /assets/optimized/5fda96710571840c19f7342e.webp 3x" alt="Баланс" width="24" height="24"><span id="account-balance">0</span></span><button id="logout" type="button">Выйти</button><span id="connection-status" role="status"></span></div>
     <button id="chat-toggle" type="button" aria-controls="chat" aria-expanded="false">Чат</button><button id="touch-interact" type="button" hidden></button>
-    <div id="interaction-hint" role="status"></div><section id="chat" class="aero-window"><header class="aero-header"><span data-icon="chat"></span> Чат рядом<button id="chat-close" type="button" aria-label="Свернуть чат">×</button></header><div id="history" role="log" aria-live="polite"></div><div id="chat-composer"><input id="message" maxlength="200" placeholder="Enter — написать сообщение" aria-label="Сообщение" enterkeyhint="send"><button id="chat-send" type="button">Отправить</button></div></section>
+    <div id="interaction-hint" role="status"></div><section id="chat" class="aero-window" aria-label="История чата"><header class="aero-header"><button id="chat-collapse" type="button" aria-label="Свернуть историю чата" aria-expanded="true" aria-controls="history">⌄</button></header><button id="chat-resize" type="button" aria-label="Изменить размер истории чата (стрелки или перетаскивание)" title="Потяните угол для изменения размера"></button><div id="history" role="log" aria-live="polite"></div></section>
+    <div id="chat-composer" hidden><button id="chat-close" type="button" aria-label="Закрыть ввод сообщения">×</button><input id="message" maxlength="200" placeholder="Написать сообщение…" aria-label="Сообщение" enterkeyhint="send"><button id="chat-send" type="button" aria-label="Отправить сообщение">➤</button></div>
   </div>
   <script>
     // Pages caches HTML for ten minutes. Check the entry document on ordinary reload;

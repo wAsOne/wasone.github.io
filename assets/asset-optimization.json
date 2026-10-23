@@ -129,6 +129,90 @@
     "cached": false
   },
   {
+    "path": "/assets/ui/support/patron.png",
+    "originalBytes": 563057,
+    "bytes": 8018,
+    "width": 96,
+    "height": 100,
+    "resized": true,
+    "cached": false
+  },
+  {
+    "path": "/assets/ui/support/tier2.png",
+    "originalBytes": 739999,
+    "bytes": 9806,
+    "width": 101,
+    "height": 96,
+    "resized": true,
+    "cached": false
+  },
+  {
+    "path": "/assets/ui/owner/auth-background.png",
+    "originalBytes": 1563869,
+    "bytes": 987252,
+    "width": 1672,
+    "height": 941,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/ui/owner/chat.png",
+    "originalBytes": 971950,
+    "bytes": 16666,
+    "width": 159,
+    "height": 144,
+    "resized": true,
+    "cached": false
+  },
+  {
+    "path": "/assets/ui/owner/fishing.png",
+    "originalBytes": 1158970,
+    "bytes": 26468,
+    "width": 180,
+    "height": 144,
+    "resized": true,
+    "cached": false
+  },
+  {
+    "path": "/assets/ui/owner/notifications.png",
+    "originalBytes": 64614,
+    "bytes": 16912,
+    "width": 144,
+    "height": 144,
+    "resized": true,
+    "cached": false
+  },
+  {
+    "path": "/assets/ui/owner/settings.png",
+    "originalBytes": 73383,
+    "bytes": 20480,
+    "width": 144,
+    "height": 144,
+    "resized": true,
+    "cached": false
+  },
+  {
+    "path": "/assets/ui/owner/wardrobe.png",
+    "originalBytes": 1642238,
+    "bytes": 17572,
+    "width": 145,
+    "height": 145,
+    "resized": true,
+    "cached": false
+  },
+  {
+    "path": "/assets/ui/community/boosty.svg",
+    "originalBytes": 735,
+    "bytes": 735,
+    "cached": false
+  },
+  {
+    "path": "/assets/ui/community/telegram.svg",
+    "originalBytes": 2051,
+    "bytes": 2051,
+    "cached": false
+  },
+  {
     "path": "/assets/objects/aquarium_bottom.png",
     "originalBytes": 38504,
     "bytes": 24266,
