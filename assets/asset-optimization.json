@@ -1,14 +1,14 @@
 [
   {
     "path": "/assets/world/ground.svg",
-    "originalBytes": 181,
-    "bytes": 181,
+    "originalBytes": 180,
+    "bytes": 180,
     "cached": false
   },
   {
     "path": "/assets/world/map_main.svg",
-    "originalBytes": 529,
-    "bytes": 529,
+    "originalBytes": 528,
+    "bytes": 528,
     "cached": false
   },
   {
@@ -202,14 +202,14 @@
   },
   {
     "path": "/assets/ui/community/boosty.svg",
-    "originalBytes": 748,
-    "bytes": 748,
+    "originalBytes": 735,
+    "bytes": 735,
     "cached": false
   },
   {
     "path": "/assets/ui/community/telegram.svg",
-    "originalBytes": 2066,
-    "bytes": 2066,
+    "originalBytes": 2051,
+    "bytes": 2051,
     "cached": false
   },
   {
@@ -421,8 +421,8 @@
   },
   {
     "path": "/assets/objects/vending_machine.svg",
-    "originalBytes": 517,
-    "bytes": 517,
+    "originalBytes": 516,
+    "bytes": 516,
     "cached": false
   },
   {
