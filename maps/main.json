@@ -43,7 +43,7 @@
                  "width":155.4,
                  "x":3309,
                  "y":30
-                }, 
+                },
                 {
                  "gid":12,
                  "height":478.8,
@@ -90,7 +90,7 @@
                  "width":112,
                  "x":3329,
                  "y":230
-                }, 
+                },
                 {
                  "height":0,
                  "id":46,
@@ -1552,6 +1552,35 @@
                  "visible":true,
                  "x":0,
                  "y":0
+                },
+                {
+                 "draworder":"topdown",
+                 "id":66,
+                 "name":"Interactions",
+                 "objects":[
+                        {
+                         "height":240,
+                         "id":156,
+                         "name":"Крестики-нолики",
+                         "opacity":1,
+                         "properties":[
+                                {
+                                 "name":"sprite",
+                                 "type":"file",
+                                 "value":"..\/assets\/fruit\/arcada2.png"
+                                }],
+                         "rotation":0,
+                         "type":"tic_tac_toe",
+                         "visible":true,
+                         "width":151.2,
+                         "x":-135,
+                         "y":-193
+                        }],
+                 "opacity":1,
+                 "type":"objectgroup",
+                 "visible":true,
+                 "x":0,
+                 "y":0
                 }],
          "name":"Sample: Green arcade",
          "offsetx":3050,
@@ -1611,6 +1640,35 @@
                          "width":112.78,
                          "x":-488.19,
                          "y":84.2
+                        }],
+                 "opacity":1,
+                 "type":"objectgroup",
+                 "visible":true,
+                 "x":0,
+                 "y":0
+                },
+                {
+                 "draworder":"topdown",
+                 "id":67,
+                 "name":"Interactions",
+                 "objects":[
+                        {
+                         "height":240,
+                         "id":157,
+                         "name":"Классические игры",
+                         "opacity":1,
+                         "properties":[
+                                {
+                                 "name":"sprite",
+                                 "type":"file",
+                                 "value":"..\/assets\/fruit\/arcada3.png"
+                                }],
+                         "rotation":0,
+                         "type":"classic_arcade",
+                         "visible":true,
+                         "width":152.4,
+                         "x":-508,
+                         "y":-115
                         }],
                  "opacity":1,
                  "type":"objectgroup",
@@ -3046,8 +3104,8 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":66,
- "nextobjectid":156,
+ "nextlayerid":68,
+ "nextobjectid":158,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.12.2",

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="400" viewBox="0 0 300 400">
+  <title>Ghosty Moon</title>
+  <path d="M188 100a106 106 0 1 0 41 172 94 94 0 0 1-41-172Z" fill="#4a739d" stroke="#234d78" stroke-width="9" stroke-linejoin="round"/>
+  <path d="M92 137a77 77 0 0 0-15 100" fill="none" stroke="#c5e6f1" stroke-width="8" stroke-linecap="round"/>
+  <path d="m221 128 5 15 15 5-15 5-5 15-5-15-15-5 15-5Z" fill="#7195b7"/>
+</svg>

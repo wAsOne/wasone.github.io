@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="400" viewBox="0 0 300 400">
+  <title>Ghosty Sun</title>
+  <g fill="none" stroke="#bd7524" stroke-width="12" stroke-linecap="round">
+    <path d="M150 81v30m0 178v30M31 200h30m178 0h30M66 116l22 22m124 124 22 22M66 284l22-22m124-124 22-22"/>
+    <circle cx="150" cy="200" r="62" fill="#e9b94e"/>
+    <path d="M119 173a42 42 0 0 1 50-10" stroke="#fff0b7" stroke-width="8"/>
+  </g>
+</svg>

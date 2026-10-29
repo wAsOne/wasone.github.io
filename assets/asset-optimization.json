@@ -715,8 +715,8 @@
   },
   {
     "path": "/assets/fruit/arcada2.png",
-    "originalBytes": 30046,
-    "bytes": 30046,
+    "originalBytes": 168717,
+    "bytes": 103050,
     "width": 252,
     "height": 400,
     "resized": false,
@@ -724,8 +724,8 @@
   },
   {
     "path": "/assets/fruit/arcada3.png",
-    "originalBytes": 24346,
-    "bytes": 20606,
+    "originalBytes": 103245,
+    "bytes": 70156,
     "width": 254,
     "height": 400,
     "resized": false,
@@ -1461,6 +1461,780 @@
     "path": "/assets/audio/chat/outgoing.mp3",
     "originalBytes": 35108,
     "bytes": 35108,
+    "cached": false
+  },
+  {
+    "path": "/assets/arcade/solitaire/faces/0-1.png",
+    "originalBytes": 29093,
+    "bytes": 16414,
+    "width": 300,
+    "height": 420,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/arcade/solitaire/faces/0-10.png",
+    "originalBytes": 20200,
+    "bytes": 9250,
+    "width": 300,
+    "height": 420,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/arcade/solitaire/faces/0-11.png",
+    "originalBytes": 127738,
+    "bytes": 96342,
+    "width": 300,
+    "height": 420,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/arcade/solitaire/faces/0-12.png",
+    "originalBytes": 125316,
+    "bytes": 93350,
+    "width": 300,
+    "height": 420,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/arcade/solitaire/faces/0-13.png",
+    "originalBytes": 118934,
+    "bytes": 90062,
+    "width": 300,
+    "height": 420,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/arcade/solitaire/faces/0-2.png",
+    "originalBytes": 11627,
+    "bytes": 6018,
+    "width": 300,
+    "height": 420,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/arcade/solitaire/faces/0-3.png",
+    "originalBytes": 14123,
+    "bytes": 7500,
+    "width": 300,
+    "height": 420,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/arcade/solitaire/faces/0-4.png",
+    "originalBytes": 11522,
+    "bytes": 5970,
+    "width": 300,
+    "height": 420,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/arcade/solitaire/faces/0-5.png",
+    "originalBytes": 14274,
+    "bytes": 7530,
+    "width": 300,
+    "height": 420,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/arcade/solitaire/faces/0-6.png",
+    "originalBytes": 15081,
+    "bytes": 8038,
+    "width": 300,
+    "height": 420,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/arcade/solitaire/faces/0-7.png",
+    "originalBytes": 16011,
+    "bytes": 8664,
+    "width": 300,
+    "height": 420,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/arcade/solitaire/faces/0-8.png",
+    "originalBytes": 19443,
+    "bytes": 10734,
+    "width": 300,
+    "height": 420,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/arcade/solitaire/faces/0-9.png",
+    "originalBytes": 19426,
+    "bytes": 9788,
+    "width": 300,
+    "height": 420,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/arcade/solitaire/faces/1-1.png",
+    "originalBytes": 10057,
+    "bytes": 6008,
+    "width": 300,
+    "height": 420,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/arcade/solitaire/faces/1-10.png",
+    "originalBytes": 23805,
+    "bytes": 12380,
+    "width": 300,
+    "height": 420,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/arcade/solitaire/faces/1-11.png",
+    "originalBytes": 135685,
+    "bytes": 108068,
+    "width": 300,
+    "height": 420,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/arcade/solitaire/faces/1-12.png",
+    "originalBytes": 125752,
+    "bytes": 96560,
+    "width": 300,
+    "height": 420,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/arcade/solitaire/faces/1-13.png",
+    "originalBytes": 130564,
+    "bytes": 100948,
+    "width": 300,
+    "height": 420,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/arcade/solitaire/faces/1-2.png",
+    "originalBytes": 11913,
+    "bytes": 7484,
+    "width": 300,
+    "height": 420,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/arcade/solitaire/faces/1-3.png",
+    "originalBytes": 14387,
+    "bytes": 9134,
+    "width": 300,
+    "height": 420,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/arcade/solitaire/faces/1-4.png",
+    "originalBytes": 11820,
+    "bytes": 7286,
+    "width": 300,
+    "height": 420,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/arcade/solitaire/faces/1-5.png",
+    "originalBytes": 14541,
+    "bytes": 9112,
+    "width": 300,
+    "height": 420,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/arcade/solitaire/faces/1-6.png",
+    "originalBytes": 15412,
+    "bytes": 9724,
+    "width": 300,
+    "height": 420,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/arcade/solitaire/faces/1-7.png",
+    "originalBytes": 16230,
+    "bytes": 10246,
+    "width": 300,
+    "height": 420,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/arcade/solitaire/faces/1-8.png",
+    "originalBytes": 20098,
+    "bytes": 12784,
+    "width": 300,
+    "height": 420,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/arcade/solitaire/faces/1-9.png",
+    "originalBytes": 23277,
+    "bytes": 13156,
+    "width": 300,
+    "height": 420,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/arcade/solitaire/faces/2-1.png",
+    "originalBytes": 8721,
+    "bytes": 4678,
+    "width": 300,
+    "height": 420,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/arcade/solitaire/faces/2-10.png",
+    "originalBytes": 16550,
+    "bytes": 8994,
+    "width": 300,
+    "height": 420,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/arcade/solitaire/faces/2-11.png",
+    "originalBytes": 129631,
+    "bytes": 102382,
+    "width": 300,
+    "height": 420,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/arcade/solitaire/faces/2-12.png",
+    "originalBytes": 118565,
+    "bytes": 90640,
+    "width": 300,
+    "height": 420,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/arcade/solitaire/faces/2-13.png",
+    "originalBytes": 123440,
+    "bytes": 95930,
+    "width": 300,
+    "height": 420,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/arcade/solitaire/faces/2-2.png",
+    "originalBytes": 10531,
+    "bytes": 6090,
+    "width": 300,
+    "height": 420,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/arcade/solitaire/faces/2-3.png",
+    "originalBytes": 12149,
+    "bytes": 6890,
+    "width": 300,
+    "height": 420,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/arcade/solitaire/faces/2-4.png",
+    "originalBytes": 10255,
+    "bytes": 6034,
+    "width": 300,
+    "height": 420,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/arcade/solitaire/faces/2-5.png",
+    "originalBytes": 12211,
+    "bytes": 7070,
+    "width": 300,
+    "height": 420,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/arcade/solitaire/faces/2-6.png",
+    "originalBytes": 13052,
+    "bytes": 7650,
+    "width": 300,
+    "height": 420,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/arcade/solitaire/faces/2-7.png",
+    "originalBytes": 13313,
+    "bytes": 7904,
+    "width": 300,
+    "height": 420,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/arcade/solitaire/faces/2-8.png",
+    "originalBytes": 16727,
+    "bytes": 10210,
+    "width": 300,
+    "height": 420,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/arcade/solitaire/faces/2-9.png",
+    "originalBytes": 16347,
+    "bytes": 9158,
+    "width": 300,
+    "height": 420,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/arcade/solitaire/faces/3-1.png",
+    "originalBytes": 10271,
+    "bytes": 5012,
+    "width": 300,
+    "height": 420,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/arcade/solitaire/faces/3-10.png",
+    "originalBytes": 22747,
+    "bytes": 10452,
+    "width": 300,
+    "height": 420,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/arcade/solitaire/faces/3-11.png",
+    "originalBytes": 128128,
+    "bytes": 98332,
+    "width": 300,
+    "height": 420,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/arcade/solitaire/faces/3-12.png",
+    "originalBytes": 130273,
+    "bytes": 95488,
+    "width": 300,
+    "height": 420,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/arcade/solitaire/faces/3-13.png",
+    "originalBytes": 120338,
+    "bytes": 89004,
+    "width": 300,
+    "height": 420,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/arcade/solitaire/faces/3-2.png",
+    "originalBytes": 12730,
+    "bytes": 6638,
+    "width": 300,
+    "height": 420,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/arcade/solitaire/faces/3-3.png",
+    "originalBytes": 15633,
+    "bytes": 8324,
+    "width": 300,
+    "height": 420,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/arcade/solitaire/faces/3-4.png",
+    "originalBytes": 12643,
+    "bytes": 6530,
+    "width": 300,
+    "height": 420,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/arcade/solitaire/faces/3-5.png",
+    "originalBytes": 15751,
+    "bytes": 8266,
+    "width": 300,
+    "height": 420,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/arcade/solitaire/faces/3-6.png",
+    "originalBytes": 16536,
+    "bytes": 8780,
+    "width": 300,
+    "height": 420,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/arcade/solitaire/faces/3-7.png",
+    "originalBytes": 17928,
+    "bytes": 9658,
+    "width": 300,
+    "height": 420,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/arcade/solitaire/faces/3-8.png",
+    "originalBytes": 21728,
+    "bytes": 11930,
+    "width": 300,
+    "height": 420,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/arcade/solitaire/faces/3-9.png",
+    "originalBytes": 21658,
+    "bytes": 10836,
+    "width": 300,
+    "height": 420,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/arcade/mahjong/riichi/Chun.svg",
+    "originalBytes": 9497,
+    "bytes": 9497,
+    "cached": false
+  },
+  {
+    "path": "/assets/arcade/mahjong/riichi/Haku.svg",
+    "originalBytes": 7122,
+    "bytes": 7122,
+    "cached": false
+  },
+  {
+    "path": "/assets/arcade/mahjong/riichi/Hatsu.svg",
+    "originalBytes": 16047,
+    "bytes": 16047,
+    "cached": false
+  },
+  {
+    "path": "/assets/arcade/mahjong/riichi/Man1.svg",
+    "originalBytes": 13877,
+    "bytes": 13877,
+    "cached": false
+  },
+  {
+    "path": "/assets/arcade/mahjong/riichi/Man2.svg",
+    "originalBytes": 14414,
+    "bytes": 14414,
+    "cached": false
+  },
+  {
+    "path": "/assets/arcade/mahjong/riichi/Man3.svg",
+    "originalBytes": 15014,
+    "bytes": 15014,
+    "cached": false
+  },
+  {
+    "path": "/assets/arcade/mahjong/riichi/Man4.svg",
+    "originalBytes": 15436,
+    "bytes": 15436,
+    "cached": false
+  },
+  {
+    "path": "/assets/arcade/mahjong/riichi/Man5.svg",
+    "originalBytes": 16943,
+    "bytes": 16943,
+    "cached": false
+  },
+  {
+    "path": "/assets/arcade/mahjong/riichi/Man6.svg",
+    "originalBytes": 15694,
+    "bytes": 15694,
+    "cached": false
+  },
+  {
+    "path": "/assets/arcade/mahjong/riichi/Man7.svg",
+    "originalBytes": 14365,
+    "bytes": 14365,
+    "cached": false
+  },
+  {
+    "path": "/assets/arcade/mahjong/riichi/Man8.svg",
+    "originalBytes": 14459,
+    "bytes": 14459,
+    "cached": false
+  },
+  {
+    "path": "/assets/arcade/mahjong/riichi/Man9.svg",
+    "originalBytes": 15159,
+    "bytes": 15159,
+    "cached": false
+  },
+  {
+    "path": "/assets/arcade/mahjong/riichi/Nan.svg",
+    "originalBytes": 12658,
+    "bytes": 12658,
+    "cached": false
+  },
+  {
+    "path": "/assets/arcade/mahjong/riichi/Pei.svg",
+    "originalBytes": 10212,
+    "bytes": 10212,
+    "cached": false
+  },
+  {
+    "path": "/assets/arcade/mahjong/riichi/Pin1.svg",
+    "originalBytes": 20624,
+    "bytes": 20624,
+    "cached": false
+  },
+  {
+    "path": "/assets/arcade/mahjong/riichi/Pin2.svg",
+    "originalBytes": 14939,
+    "bytes": 14939,
+    "cached": false
+  },
+  {
+    "path": "/assets/arcade/mahjong/riichi/Pin3.svg",
+    "originalBytes": 15486,
+    "bytes": 15486,
+    "cached": false
+  },
+  {
+    "path": "/assets/arcade/mahjong/riichi/Pin4.svg",
+    "originalBytes": 18108,
+    "bytes": 18108,
+    "cached": false
+  },
+  {
+    "path": "/assets/arcade/mahjong/riichi/Pin5.svg",
+    "originalBytes": 20828,
+    "bytes": 20828,
+    "cached": false
+  },
+  {
+    "path": "/assets/arcade/mahjong/riichi/Pin6.svg",
+    "originalBytes": 22365,
+    "bytes": 22365,
+    "cached": false
+  },
+  {
+    "path": "/assets/arcade/mahjong/riichi/Pin7.svg",
+    "originalBytes": 27573,
+    "bytes": 27573,
+    "cached": false
+  },
+  {
+    "path": "/assets/arcade/mahjong/riichi/Pin8.svg",
+    "originalBytes": 27566,
+    "bytes": 27566,
+    "cached": false
+  },
+  {
+    "path": "/assets/arcade/mahjong/riichi/Pin9.svg",
+    "originalBytes": 31026,
+    "bytes": 31026,
+    "cached": false
+  },
+  {
+    "path": "/assets/arcade/mahjong/riichi/Shaa.svg",
+    "originalBytes": 10805,
+    "bytes": 10805,
+    "cached": false
+  },
+  {
+    "path": "/assets/arcade/mahjong/riichi/Sou1.svg",
+    "originalBytes": 60121,
+    "bytes": 60121,
+    "cached": false
+  },
+  {
+    "path": "/assets/arcade/mahjong/riichi/Sou2.svg",
+    "originalBytes": 16093,
+    "bytes": 16093,
+    "cached": false
+  },
+  {
+    "path": "/assets/arcade/mahjong/riichi/Sou3.svg",
+    "originalBytes": 20338,
+    "bytes": 20338,
+    "cached": false
+  },
+  {
+    "path": "/assets/arcade/mahjong/riichi/Sou4.svg",
+    "originalBytes": 25945,
+    "bytes": 25945,
+    "cached": false
+  },
+  {
+    "path": "/assets/arcade/mahjong/riichi/Sou5.svg",
+    "originalBytes": 28759,
+    "bytes": 28759,
+    "cached": false
+  },
+  {
+    "path": "/assets/arcade/mahjong/riichi/Sou6.svg",
+    "originalBytes": 33117,
+    "bytes": 33117,
+    "cached": false
+  },
+  {
+    "path": "/assets/arcade/mahjong/riichi/Sou7.svg",
+    "originalBytes": 30548,
+    "bytes": 30548,
+    "cached": false
+  },
+  {
+    "path": "/assets/arcade/mahjong/riichi/Sou8.svg",
+    "originalBytes": 34696,
+    "bytes": 34696,
+    "cached": false
+  },
+  {
+    "path": "/assets/arcade/mahjong/riichi/Sou9.svg",
+    "originalBytes": 37279,
+    "bytes": 37279,
+    "cached": false
+  },
+  {
+    "path": "/assets/arcade/mahjong/riichi/Ton.svg",
+    "originalBytes": 11281,
+    "bytes": 11281,
+    "cached": false
+  },
+  {
+    "path": "/assets/arcade/mahjong/ghosty/moon.svg",
+    "originalBytes": 445,
+    "bytes": 445,
+    "cached": false
+  },
+  {
+    "path": "/assets/arcade/mahjong/ghosty/sun.svg",
+    "originalBytes": 446,
+    "bytes": 446,
+    "cached": false
+  },
+  {
+    "path": "/assets/arcade/audio/card-fan-1.ogg",
+    "originalBytes": 9180,
+    "bytes": 9180,
+    "cached": false
+  },
+  {
+    "path": "/assets/arcade/audio/card-place-1.ogg",
+    "originalBytes": 9624,
+    "bytes": 9624,
+    "cached": false
+  },
+  {
+    "path": "/assets/arcade/audio/card-shove-1.ogg",
+    "originalBytes": 9948,
+    "bytes": 9948,
+    "cached": false
+  },
+  {
+    "path": "/assets/arcade/audio/card-shuffle.ogg",
+    "originalBytes": 30002,
+    "bytes": 30002,
+    "cached": false
+  },
+  {
+    "path": "/assets/arcade/audio/card-slide-1.ogg",
+    "originalBytes": 8833,
+    "bytes": 8833,
+    "cached": false
+  },
+  {
+    "path": "/assets/arcade/audio/fireworks-08.mp3",
+    "originalBytes": 192768,
+    "bytes": 192768,
+    "cached": false
+  },
+  {
+    "path": "/assets/arcade/audio/glass-knock-1-189096.mp3",
+    "originalBytes": 10752,
+    "bytes": 10752,
+    "cached": false
+  },
+  {
+    "path": "/assets/arcade/audio/impactPlate_light_000.ogg",
+    "originalBytes": 10474,
+    "bytes": 10474,
+    "cached": false
+  },
+  {
+    "path": "/assets/arcade/audio/impactPlate_light_001.ogg",
+    "originalBytes": 11730,
+    "bytes": 11730,
+    "cached": false
+  },
+  {
+    "path": "/assets/arcade/audio/impactSoft_medium_000.ogg",
+    "originalBytes": 5351,
+    "bytes": 5351,
+    "cached": false
+  },
+  {
+    "path": "/assets/arcade/audio/minimal-ui-pop-383735.mp3",
+    "originalBytes": 68352,
+    "bytes": 68352,
+    "cached": false
+  },
+  {
+    "path": "/assets/arcade/audio/shine-2-268904.mp3",
+    "originalBytes": 199680,
+    "bytes": 199680,
+    "cached": false
+  },
+  {
+    "path": "/assets/arcade/audio/success-notification-132473.mp3",
+    "originalBytes": 51827,
+    "bytes": 51827,
+    "cached": false
+  },
+  {
+    "path": "/assets/arcade/audio/tic-tac-toe-draw.mp3",
+    "originalBytes": 25913,
+    "bytes": 25913,
+    "cached": false
+  },
+  {
+    "path": "/assets/arcade/audio/tic-tac-toe-lose.mp3",
+    "originalBytes": 57678,
+    "bytes": 57678,
     "cached": false
   }
 ]

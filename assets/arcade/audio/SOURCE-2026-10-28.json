@@ -1,0 +1,77 @@
+{
+  "retrieved": "2026-10-28",
+  "files": [
+    {
+      "file": "glass-knock-1-189096.mp3",
+      "title": "Glass Knock 1",
+      "author": "floraphonic",
+      "source": "https://pixabay.com/sound-effects/film-special-effects-glass-knock-1-189096/",
+      "download": null,
+      "license": "Pixabay Content License (not CC0)",
+      "licenseUrl": "https://pixabay.com/service/license-summary/",
+      "sha256": "f5d0f7357d623ebbf6465e78446d53f7d9cf3865d530fce70dbe06d74ca58696",
+      "modified": false
+    },
+    {
+      "file": "shine-2-268904.mp3",
+      "title": "Shine 2",
+      "author": "BenKirb",
+      "source": "https://pixabay.com/sound-effects/film-special-effects-shine-2-268904/",
+      "download": "https://cdn.pixabay.com/audio/2024/11/26/audio_46a9ff066e.mp3",
+      "license": "Pixabay Content License (not CC0)",
+      "licenseUrl": "https://pixabay.com/service/license-summary/",
+      "sha256": "f8e87dc38f1564879d64e13ffeecb121425b9ce9f67e0fa85f16787f9b648c6c",
+      "modified": false
+    },
+    {
+      "file": "minimal-ui-pop-383735.mp3",
+      "title": "Minimal UI Pop",
+      "author": "Virtual_Vibes",
+      "source": "https://pixabay.com/sound-effects/film-special-effects-minimal-ui-pop-383735/",
+      "download": "https://cdn.pixabay.com/audio/2025/08/02/audio_e87ddb7db2.mp3",
+      "license": "Pixabay Content License (not CC0)",
+      "licenseUrl": "https://pixabay.com/service/license-summary/",
+      "sha256": "b139a499ae8679e2c145c3e212f6b22ec587f7e1184c1d3b5db98dd4d8c525d3",
+      "modified": false
+    },
+    {
+      "file": "success-notification-132473.mp3",
+      "title": "Success Notification",
+      "author": "Universfield",
+      "source": "https://pixabay.com/sound-effects/film-special-effects-success-notification-132473/",
+      "download": "https://cdn.pixabay.com/audio/2023/01/07/audio_35fb2f73bf.mp3",
+      "license": "Pixabay Content License (not CC0)",
+      "licenseUrl": "https://pixabay.com/service/license-summary/",
+      "sha256": "24998c64b3bc5e6e10c0d78132f81d2da240a850ccbab8c6914c17f7aae19932",
+      "modified": false
+    },
+    {
+      "file": "tic-tac-toe-lose.mp3",
+      "source": "images/миниигры/поражение.mp3",
+      "sha256": "e36d1e6f905fdb17e1af666933b15d2083631be1f49743b628955c8ac08b6f1f",
+      "modified": false,
+      "license": "User-supplied; external origin/license not provided. Confirm before public release."
+    },
+    {
+      "file": "tic-tac-toe-draw.mp3",
+      "source": "images/миниигры/ничья.mp3",
+      "sha256": "cfb4475f7e0630f7148d35b6a18779ec4a5dfea49f0113cf83ca1f8563e540b6",
+      "modified": false,
+      "license": "User-supplied; external origin/license not provided. Confirm before public release."
+    }
+  ],
+  "preExistingProvenanceDifferences": [
+    {
+      "file": "card-fan-1.ogg",
+      "recordedSha256": "7a9758ccad8899baef1b9f60b4064e4baa724a548293832fdaea07e6e07e638d",
+      "currentSha256": "8638ab0c17f029aded0e27a4f9b9bb9f8c621b19a6e9975e855cb40ea63e2201",
+      "status": "Pre-existing user replacement; historical source does not establish current provenance. File preserved."
+    },
+    {
+      "file": "card-shove-1.ogg",
+      "recordedSha256": "1ea667aa6795d5f14239192116ebcbd8f3f47eb1c7faaf2ec56844b9067b8b06",
+      "currentSha256": "399520d483a1466fcaa850b9c407b4edbd5c7f0cbdf17e84dea12e9636326d0d",
+      "status": "Pre-existing user replacement; historical source does not establish current provenance. File preserved."
+    }
+  ]
+}

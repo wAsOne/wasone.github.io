@@ -1,0 +1,322 @@
+{
+  "repository": "https://github.com/AustinGabriel/Public-Domain-and-CC0-Playing-Cards",
+  "revision": "3765067c32fcef42a30e87022332db729658e7cd",
+  "license": "CC0-1.0",
+  "retrieved": "2026-10-28",
+  "derivative": "Full original PNG resized to 300×420 PNG; no crop, overlays or recolouring.",
+  "archiveSha256": "967902bd40667f7369376d5979bf12aac7125de4b0e1927cf81c48752f6a659a",
+  "files": [
+    {
+      "file": "0-1.png",
+      "original": "png cards/card fronts/spades/ace of spades.png",
+      "sourceSha256": "94dbf283d82efd7461f77ce6fdeecb836d28a9b014426db4ab484ceaf065b873",
+      "sha256": "f71596c91bf4f70941ed3c90170b616d28cff20237ce445d565e94936ea16639"
+    },
+    {
+      "file": "0-2.png",
+      "original": "png cards/card fronts/spades/2 of spades.png",
+      "sourceSha256": "4fd0fe4578488f02e7e9ea67c64a2225fccca5a0af7fad4ed532b7cfca529cb4",
+      "sha256": "77d7c14db24edb751ddaf2ff95875c7b89bf33bacf45e3dfa6822ee941c5c93a"
+    },
+    {
+      "file": "0-3.png",
+      "original": "png cards/card fronts/spades/3 of spades.png",
+      "sourceSha256": "65b7f6aa89a3239cb710a78dd1581a78d8871c5e679a014f2cb2cb4296d386cc",
+      "sha256": "df904c2f28d5addb5a3c873962a102eca4894a7cc0331ae7337e48ca38846b8a"
+    },
+    {
+      "file": "0-4.png",
+      "original": "png cards/card fronts/spades/4 of spades.png",
+      "sourceSha256": "5645f7e00c5850c244c143b40a03c4fa71741cf749c52a31550cd77f33a24569",
+      "sha256": "10ace17be39a57539e004ea66b6139f0e648de9d8377a41746c6cb9cf818b0d2"
+    },
+    {
+      "file": "0-5.png",
+      "original": "png cards/card fronts/spades/5 of spades.png",
+      "sourceSha256": "50dd22a03f48b6e2cb02f0336697add4baed466290fc3f802d4dcfe54e096613",
+      "sha256": "2be1370b5f43ced20428b04b6712800b99758af7257995601dd43ed1deb8a3f3"
+    },
+    {
+      "file": "0-6.png",
+      "original": "png cards/card fronts/spades/6 of spades.png",
+      "sourceSha256": "2de2816d58d7ee615d163b0e092285810f764aff109838793811116092fc81f6",
+      "sha256": "4e54de3f82331c17536265057318476e9eafcdfb9bc705277b5c37db45ea0ae0"
+    },
+    {
+      "file": "0-7.png",
+      "original": "png cards/card fronts/spades/7 of spades.png",
+      "sourceSha256": "47fba7ffd8355abf739726ed2fa9a32867ef9f917ccd5073e1cb8d7b9a8736c2",
+      "sha256": "1fccb4c4867567927ecf1a36ae1e61d44b7bbb88f5703499386858fe60f83859"
+    },
+    {
+      "file": "0-8.png",
+      "original": "png cards/card fronts/spades/8 of spades.png",
+      "sourceSha256": "05446a8ed9344eaa95b537b1fa64f5144c20f65ea299666096b134d4b5a00b15",
+      "sha256": "cdbd329bf76f3bf132e85591af383b1bbe80927da887a56317d1c7107e86bdeb"
+    },
+    {
+      "file": "0-9.png",
+      "original": "png cards/card fronts/spades/9 of spades.png",
+      "sourceSha256": "31f2113099243b7ecb8ebc972ea58fa7b4712ab8d3c9911bbe74de99d1562ad1",
+      "sha256": "e15fa5c83ea770fd9d34a14e20aefaab2e84f12714e4955b09713711a168e3bf"
+    },
+    {
+      "file": "0-10.png",
+      "original": "png cards/card fronts/spades/10 of spades.png",
+      "sourceSha256": "0c5d1ea3a9470b69f55064d91f94e54213417f5779e14193bf9f300515193619",
+      "sha256": "092b39b33cdc02be9ef0f60a52441252f88bdd76c8d7ef1c33bfedd5713398ac"
+    },
+    {
+      "file": "0-11.png",
+      "original": "png cards/card fronts/spades/jack of spades.png",
+      "sourceSha256": "dd19ea20e9ba98b05ff943d523293e8f6d04982d8d35a25ab48dd8d0ceb8c3a4",
+      "sha256": "3867bfc150071e36161544dd9f8d59beb462efdb95f79c3f06a6d95006e59735"
+    },
+    {
+      "file": "0-12.png",
+      "original": "png cards/card fronts/spades/queen of spades.png",
+      "sourceSha256": "81446f3f17f28e95de43974c637651a9995844a49df3b16c1d66dfc5baaf1e56",
+      "sha256": "228cb16f7434f5e22985bb0303834786d509d90199b26adb062015749b452ea9"
+    },
+    {
+      "file": "0-13.png",
+      "original": "png cards/card fronts/spades/king of spades.png",
+      "sourceSha256": "0de375997f913f615b1b8f9ea510b4ece0aa276ea5028927d59e9245afbf1eb3",
+      "sha256": "a71af012c80621835f09e3a6d7bd904e744ecaf361b2781407366f5306ad70b3"
+    },
+    {
+      "file": "1-1.png",
+      "original": "png cards/card fronts/hearts/ace of hearts.png",
+      "sourceSha256": "13c3c95824eb5b9175a235ca3a210938f457055b54be941a72c1f13e823759a3",
+      "sha256": "460127825c4722de99b3499d2b1e58c53ec3cd057acf6fc28e0e08dac4dd920f"
+    },
+    {
+      "file": "1-2.png",
+      "original": "png cards/card fronts/hearts/2 of hearts.png",
+      "sourceSha256": "ce2e3421cb568d4cd6db962e21c390a3055d8d8ce6952a3d00af2e5d9013c40e",
+      "sha256": "39a0b24f486483515786f5886b967732288f43ed0d14ef7d7bfdaf07003dbb50"
+    },
+    {
+      "file": "1-3.png",
+      "original": "png cards/card fronts/hearts/3 of hearts.png",
+      "sourceSha256": "bf4f8f4081a130b0d02421298a5ac3aa9369ac68360eafc6a3c0a80c2abbddce",
+      "sha256": "79eff2be2a74ed51f913b2c3a6dd844a7652c274817b707e4e2745f6f5ad940e"
+    },
+    {
+      "file": "1-4.png",
+      "original": "png cards/card fronts/hearts/4 of hearts.png",
+      "sourceSha256": "312c73b773996e12ee174212a7bb59582106a2f96632148695baf951fd94eb32",
+      "sha256": "65894e980c8c6eb3ec57201841b31256c7749e7c40a95560121f3a8ab596c529"
+    },
+    {
+      "file": "1-5.png",
+      "original": "png cards/card fronts/hearts/5 of hearts.png",
+      "sourceSha256": "161680995bc8bb169230db814bd0836a0d1ff09d588a7885794bf843a3bb2270",
+      "sha256": "c1bcefe8954e280d754ba363d72e6dbabb3d76fcc5c83c16dd240ad5ecabdc34"
+    },
+    {
+      "file": "1-6.png",
+      "original": "png cards/card fronts/hearts/6 of hearts.png",
+      "sourceSha256": "4871bbaf3b4eea3f672effe3fb085fc616c4269906e42e0764fc045a89564908",
+      "sha256": "2456c9bad3162bfd56fdf7ec8c947862658e630a52a41dfc3d58defd072be43c"
+    },
+    {
+      "file": "1-7.png",
+      "original": "png cards/card fronts/hearts/7 of hearts.png",
+      "sourceSha256": "07d9ea0afcf51910b35ff364003adb991a96a081aaf87b4fd6c62dc5ba107c1e",
+      "sha256": "dd448d410d8d8f9cfcad6d2c5ff054dc457087d427c44c3d4712b0af441e6e3f"
+    },
+    {
+      "file": "1-8.png",
+      "original": "png cards/card fronts/hearts/8 of hearts.png",
+      "sourceSha256": "22370ed25c144f36d44c72c27b51aa81e69ed0b26ea21baaa5dfdfa8203068ba",
+      "sha256": "b5cd087589e8c29d0f062217aefca0c93109636e41567350d2e407f4886e35c8"
+    },
+    {
+      "file": "1-9.png",
+      "original": "png cards/card fronts/hearts/9 of hearts.png",
+      "sourceSha256": "d9873168e00f594c871a78bbb1a86e67425e5394c5472ac0cda3b88856eb773e",
+      "sha256": "db7738fb2b8c8464bcf935bf83a0caddd5e707eca415d3753bdf382842f31cc2"
+    },
+    {
+      "file": "1-10.png",
+      "original": "png cards/card fronts/hearts/10 of hearts.png",
+      "sourceSha256": "038726c33dc425265ec9c4f7833b42a36170c331120fbd45e13a57fc32646e18",
+      "sha256": "6df1846406ae5d79eeab6c35321c949200b78f906b796964168063680ee99f24"
+    },
+    {
+      "file": "1-11.png",
+      "original": "png cards/card fronts/hearts/jack of hearts.png",
+      "sourceSha256": "47b12c2a143be2d86a01e221e4258fac75dd315df08c158ccbbebcb7ce80a55a",
+      "sha256": "a1daf46309f1f3367f4d07dbbb964a3158994464bf3705094883e9227593c3e3"
+    },
+    {
+      "file": "1-12.png",
+      "original": "png cards/card fronts/hearts/queen of hearts.png",
+      "sourceSha256": "a15009b65ad801d2145fd068c5cd1f80a2a7753ab80cccde2294fa566cd18849",
+      "sha256": "5a8fa883338a07a55c0f45c1580cef1c7e95f154a649815fbeb343703e55fc5a"
+    },
+    {
+      "file": "1-13.png",
+      "original": "png cards/card fronts/hearts/king of hearts.png",
+      "sourceSha256": "563e4e863fcc0bab5696c1ddbd803c750b5e0511a4abd5d38ff1cff47a650f9e",
+      "sha256": "d2a089e16df058872a4923b298ec4e7283c4c7c105084391685dc7d464315ab1"
+    },
+    {
+      "file": "2-1.png",
+      "original": "png cards/card fronts/diamonds/ace of diamonds.png",
+      "sourceSha256": "feabe92e4fd7352b5e8836ebe87dfc01f70df4d8e28a30804c66b5839469fae0",
+      "sha256": "f73c0b7e0a9c52a9ffc2f7ce22a94d2d9ed85686f324092ff5832115ccab7fdd"
+    },
+    {
+      "file": "2-2.png",
+      "original": "png cards/card fronts/diamonds/2 of diamonds.png",
+      "sourceSha256": "25bd4a9de12e29c87d34f679b4fa3965b6deb0ca0f6114155d1b5ae038535ff3",
+      "sha256": "8d79359c93ccff6e35c5f93bf37e3de8ef9014a34a5b8d2c962eb508199e6e54"
+    },
+    {
+      "file": "2-3.png",
+      "original": "png cards/card fronts/diamonds/3 of diamonds.png",
+      "sourceSha256": "f07a7bcafb7fc8c88650e7bd52542bb0a8da30653e9482d983a454aa52625434",
+      "sha256": "bddebc584d889112e6969e38b93aa8072fbcaf298e9e77877e83e8bd0842ddbf"
+    },
+    {
+      "file": "2-4.png",
+      "original": "png cards/card fronts/diamonds/4 of diamonds.png",
+      "sourceSha256": "49e1c2444eb1d327b6e442b9572a1e116525f4bbf03869be7001797f0c7bf5c4",
+      "sha256": "11ec44b1f8e2dab0cfdbda29dd63fa6ca6615ac91dd229711261e5998b2686ee"
+    },
+    {
+      "file": "2-5.png",
+      "original": "png cards/card fronts/diamonds/5 of diamonds.png",
+      "sourceSha256": "91758b0328b6397051308b99670f150bb7a29f375974dc4b62c11ad3010f2f83",
+      "sha256": "13d9b9b8665cfde0fe92e9750fe8382d7f6d7d0eb7e79d7c7b35f4e1d3cef262"
+    },
+    {
+      "file": "2-6.png",
+      "original": "png cards/card fronts/diamonds/6 of diamonds.png",
+      "sourceSha256": "735ac83f059914ef1d1ad5da98e3fd9feedc9041cf9a5bd13a3797c2f39a5436",
+      "sha256": "8adb4029a1fa3a621642cc02b8b54add8113cc0880102a4a00b957122f19c7d5"
+    },
+    {
+      "file": "2-7.png",
+      "original": "png cards/card fronts/diamonds/7 of diamonds.png",
+      "sourceSha256": "05118716b063daa4a9dad6172588573b4ab0e002ca744dbba0f98955206c7629",
+      "sha256": "f02de6bbcd977c10ae433f96eabb52498af6b64d575d5b8f3fdc92912c7de289"
+    },
+    {
+      "file": "2-8.png",
+      "original": "png cards/card fronts/diamonds/8 of diamonds.png",
+      "sourceSha256": "b0391568d415f30944988abfda5434bbe6914e9fdca0ff24e419308914912770",
+      "sha256": "6cff36911bda917be7b4badd89651c7417e8a319ecd39e6110a7b382bc1e2e72"
+    },
+    {
+      "file": "2-9.png",
+      "original": "png cards/card fronts/diamonds/9 of diamonds.png",
+      "sourceSha256": "0182a52e7a052512aa1b030ae52090e17ff54d01ba41b27e45d9e70643316b0e",
+      "sha256": "7b4c89bcaddcd645b4dfe439929799cc89756fde61ef485be759d6b99a900c49"
+    },
+    {
+      "file": "2-10.png",
+      "original": "png cards/card fronts/diamonds/10 of diamonds.png",
+      "sourceSha256": "4605a8913c6f4c5ed5cf707d7095f4fb731cbc6fe9bc5ba80e7c3469b7b4ec1b",
+      "sha256": "300d8fc5e850a5253fa437fa01dc456ad94414896b86138de943001efd6a9b2a"
+    },
+    {
+      "file": "2-11.png",
+      "original": "png cards/card fronts/diamonds/jack of diamonds.png",
+      "sourceSha256": "467a0f3799d53f6cc21369f57ba25008d56892dfbe401eedc9b22b2fd955314d",
+      "sha256": "704b7084f227b4c4f3047247b3210bcab90157d29430bfd911d4c4f4e42174f5"
+    },
+    {
+      "file": "2-12.png",
+      "original": "png cards/card fronts/diamonds/queen of diamonds.png",
+      "sourceSha256": "2d61ebd9ca4ff956b2ac8fc134a0049ad2df9db9c7d1d46ffc2b1a7c495de3ce",
+      "sha256": "2a9561a21a3087e51946db7f958b96873de2b6b964f4c1eaf768166d5b34982a"
+    },
+    {
+      "file": "2-13.png",
+      "original": "png cards/card fronts/diamonds/king of diamonds.png",
+      "sourceSha256": "006f68e4309aecb79473fe1225dc39ec994a68809d898040eaa40133d92aadcb",
+      "sha256": "3287d5238615882497e2cce0b8c37dcec56353d2f540e552ec1e543d2b22ecc7"
+    },
+    {
+      "file": "3-1.png",
+      "original": "png cards/card fronts/clubs/ace of clubs.png",
+      "sourceSha256": "5cf77b875f94540a25acb05863c2970e6f9fc50778bb9ec8c1421cd38cc35d5c",
+      "sha256": "89fba6e2d13274846ac84283ecbdcd9603925a6d7eb345bc27ad6c02c7ce9162"
+    },
+    {
+      "file": "3-2.png",
+      "original": "png cards/card fronts/clubs/2 of clubs.png",
+      "sourceSha256": "fb3df96fe8779de4f005576125bc93c16612336e3f8940c1611fd71e8363a981",
+      "sha256": "0b8984df07fa3c1a4ae3ff3327780aaed7683df01072c5d776798e6232d26706"
+    },
+    {
+      "file": "3-3.png",
+      "original": "png cards/card fronts/clubs/3 of clubs.png",
+      "sourceSha256": "d0ad74fdcc41acee23bd56122197aa5c184478aa15ce343fa58452009a32514a",
+      "sha256": "a5b0da2be261e7d49be0531cb2186ff4d09c6b6b2d393d7f49b4736059f50b7c"
+    },
+    {
+      "file": "3-4.png",
+      "original": "png cards/card fronts/clubs/4 of clubs.png",
+      "sourceSha256": "bc987c130db0f50e801bb7df82ac668ec441253e19234450fb42d0b47db85ccd",
+      "sha256": "18153e8cdfd62e7d1450c38ac88336a8b357925a98b4daa33810245693a868ff"
+    },
+    {
+      "file": "3-5.png",
+      "original": "png cards/card fronts/clubs/5 of clubs.png",
+      "sourceSha256": "fbca94b16f03656f3bb15c57b2224f31cab2fa4a26e004772c29c63612cdd49f",
+      "sha256": "0268c67df13ece83eb400333cbc613baa171a3a805ab5e9362bf1cd651c8f43f"
+    },
+    {
+      "file": "3-6.png",
+      "original": "png cards/card fronts/clubs/6 of clubs.png",
+      "sourceSha256": "3aeaca5a466e4e5d49ce866206a969123978e13b9eba3a4b2869316dba44fbf2",
+      "sha256": "558285f31c6cc200dc000d6d266c61e91189ceef7555e113fd6ab4a21199c785"
+    },
+    {
+      "file": "3-7.png",
+      "original": "png cards/card fronts/clubs/7 of clubs.png",
+      "sourceSha256": "4a792c883b3997b1f58595019517d5aa44dded43b747b8fad5e3ac0dd061b032",
+      "sha256": "1031e2315f61c817a31b9da6a57e65bf39d533c6bf1a7f0e136d4d2bc3167ae6"
+    },
+    {
+      "file": "3-8.png",
+      "original": "png cards/card fronts/clubs/8 of clubs.png",
+      "sourceSha256": "24f98d8b476fbb82131d0402d0c18a03f291491cc6d4cef5169bd7ce81b39ad9",
+      "sha256": "3408042c7c3e166832a5f57d186acb497332c09d34fc5bbfb2bcc96a91f2153f"
+    },
+    {
+      "file": "3-9.png",
+      "original": "png cards/card fronts/clubs/9 of clubs.png",
+      "sourceSha256": "aa834eb833d8296885b99ffa993f6a8de2d825e47275bd1a77c74ad17fc6cc3c",
+      "sha256": "22ce2dcfe5337664f6d30e01cda0ee06d664b8cc2928ccba0be99a99af30d2e8"
+    },
+    {
+      "file": "3-10.png",
+      "original": "png cards/card fronts/clubs/10 of clubs.png",
+      "sourceSha256": "d64fa6f44b5c79774f800c2dbaa464049e3331447b851b90e8abef5ac28c8b76",
+      "sha256": "89087205d3166c06ae4bd1f0b260b47854bf02868b47bea1e7eca6e53096b41e"
+    },
+    {
+      "file": "3-11.png",
+      "original": "png cards/card fronts/clubs/jack of clubs.png",
+      "sourceSha256": "1f2e8e2cf9e4fc558714bacb289f658b51a6e4aa8107ef4fef529eeebb39e2fa",
+      "sha256": "8535fb98c5a1f97b16c4c6f00ffd954694aa21060493bf3cef27bc19c2cc1b23"
+    },
+    {
+      "file": "3-12.png",
+      "original": "png cards/card fronts/clubs/queen of clubs.png",
+      "sourceSha256": "8e4caa3d88dcda5f9b79385f59057bf263a2d9651a275668ea9a64a582b4e803",
+      "sha256": "c4e749acc4f0a693916b3f95a04bea1f39735db2d8856bcbea4ccec29b08d1b2"
+    },
+    {
+      "file": "3-13.png",
+      "original": "png cards/card fronts/clubs/king of clubs.png",
+      "sourceSha256": "fc66708b5995e845ac21321bcc2e037852a2c26c69d187d6a249a5f268b155e2",
+      "sha256": "29bc7c7521ed9e1713332bc6f3a4c4cd9b55cb5d4292be2691a9fc6e0befa1ce"
+    }
+  ]
+}

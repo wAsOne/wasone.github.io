@@ -1,0 +1,129 @@
+{
+  "retrieved": "2026-10-26",
+  "files": [
+    {
+      "file": "card-fan-1.ogg",
+      "bytes": 9180,
+      "sha256": "8638ab0c17f029aded0e27a4f9b9bb9f8c621b19a6e9975e855cb40ea63e2201",
+      "source": "owner-provided",
+      "license": "Permission to use and distribute in Ghosty, granted by project owner on 2026-10-29; no third-party or public license claimed",
+      "modified": true,
+      "previousProvenance": {
+        "sha256": "7a9758ccad8899baef1b9f60b4064e4baa724a548293832fdaea07e6e07e638d",
+        "source": "https://kenney.nl/media/pages/assets/casino-audio/2472606a04-1721639069/kenney_casino-audio.zip",
+        "license": "CC0-1.0",
+        "bytes": 12489
+      },
+      "ownerConfirmation": {
+        "date": "2026-10-29",
+        "statement": "являются моими звуковыми материалами. Я разрешаю использовать и распространять их в составе Ghosty.",
+        "scope": "Ghosty"
+      },
+      "modification": "Replacement provided by owner; audio bytes not changed by Codex"
+    },
+    {
+      "file": "card-place-1.ogg",
+      "bytes": 9624,
+      "sha256": "d8f26c33a665dcbdcc6f632f6050bc9dd548feb0d4942d4547615926d3926810",
+      "source": "https://kenney.nl/media/pages/assets/casino-audio/2472606a04-1721639069/kenney_casino-audio.zip",
+      "license": "CC0-1.0",
+      "modified": false
+    },
+    {
+      "file": "card-shove-1.ogg",
+      "bytes": 9948,
+      "sha256": "399520d483a1466fcaa850b9c407b4edbd5c7f0cbdf17e84dea12e9636326d0d",
+      "source": "owner-provided",
+      "license": "Permission to use and distribute in Ghosty, granted by project owner on 2026-10-29; no third-party or public license claimed",
+      "modified": true,
+      "previousProvenance": {
+        "sha256": "1ea667aa6795d5f14239192116ebcbd8f3f47eb1c7faaf2ec56844b9067b8b06",
+        "source": "https://kenney.nl/media/pages/assets/casino-audio/2472606a04-1721639069/kenney_casino-audio.zip",
+        "license": "CC0-1.0",
+        "bytes": 10690
+      },
+      "ownerConfirmation": {
+        "date": "2026-10-29",
+        "statement": "являются моими звуковыми материалами. Я разрешаю использовать и распространять их в составе Ghosty.",
+        "scope": "Ghosty"
+      },
+      "modification": "Replacement provided by owner; audio bytes not changed by Codex"
+    },
+    {
+      "file": "card-shuffle.ogg",
+      "bytes": 30002,
+      "sha256": "96c84883a30845ede723a4cf2e8369e9837e7dd4e0d4eb0212b0a7ed21b0f544",
+      "source": "https://kenney.nl/media/pages/assets/casino-audio/2472606a04-1721639069/kenney_casino-audio.zip",
+      "license": "CC0-1.0",
+      "modified": false
+    },
+    {
+      "file": "card-slide-1.ogg",
+      "bytes": 8833,
+      "sha256": "006cf9822d15d7063f8899e56041f41646df30adb6fbd8b974ee5d5420012690",
+      "source": "https://kenney.nl/media/pages/assets/casino-audio/2472606a04-1721639069/kenney_casino-audio.zip",
+      "license": "CC0-1.0",
+      "modified": false
+    },
+    {
+      "file": "fireworks-08.mp3",
+      "bytes": 192768,
+      "sha256": "195897e41d884762a888b1acf1821f583a04fc90604df760709bd6e79ec4df7a",
+      "source": "https://pixabay.com/sound-effects/film-special-effects-fireworks-08-419026/",
+      "license": "Pixabay Content License (not CC0)",
+      "modified": false
+    },
+    {
+      "file": "impactPlate_light_000.ogg",
+      "bytes": 10474,
+      "sha256": "6e797cf8a5bfc52d7ed5eb47c227974c1cf2a674954fec5b539cea7d62c7282c",
+      "source": "https://kenney.nl/media/pages/assets/impact-sounds/87b4ddecda-1677589768/kenney_impact-sounds.zip",
+      "license": "CC0-1.0",
+      "modified": false
+    },
+    {
+      "file": "impactPlate_light_001.ogg",
+      "bytes": 11730,
+      "sha256": "947915c2eb6ac57ee08fd3a48b297fd108d69abc72076e79882c21cad0eef56e",
+      "source": "https://kenney.nl/media/pages/assets/impact-sounds/87b4ddecda-1677589768/kenney_impact-sounds.zip",
+      "license": "CC0-1.0",
+      "modified": false
+    },
+    {
+      "file": "impactSoft_medium_000.ogg",
+      "bytes": 5351,
+      "sha256": "7d3ba0bb5e60a11b5d3e558c141303dcf494256675fbf753c0d252d2cf0481e3",
+      "source": "https://kenney.nl/media/pages/assets/impact-sounds/87b4ddecda-1677589768/kenney_impact-sounds.zip",
+      "license": "CC0-1.0",
+      "modified": false
+    },
+    {
+      "file": "tic-tac-toe-lose.mp3",
+      "sha256": "e36d1e6f905fdb17e1af666933b15d2083631be1f49743b628955c8ac08b6f1f",
+      "bytes": 57678,
+      "source": "owner-provided",
+      "license": "Permission to use and distribute in Ghosty, granted by project owner on 2026-10-29; no third-party or public license claimed",
+      "modified": true,
+      "ownerConfirmation": {
+        "date": "2026-10-29",
+        "statement": "являются моими звуковыми материалами. Я разрешаю использовать и распространять их в составе Ghosty.",
+        "scope": "Ghosty"
+      },
+      "modification": "Replacement provided by owner; audio bytes not changed by Codex"
+    },
+    {
+      "file": "tic-tac-toe-draw.mp3",
+      "sha256": "cfb4475f7e0630f7148d35b6a18779ec4a5dfea49f0113cf83ca1f8563e540b6",
+      "bytes": 25913,
+      "source": "owner-provided",
+      "license": "Permission to use and distribute in Ghosty, granted by project owner on 2026-10-29; no third-party or public license claimed",
+      "modified": true,
+      "ownerConfirmation": {
+        "date": "2026-10-29",
+        "statement": "являются моими звуковыми материалами. Я разрешаю использовать и распространять их в составе Ghosty.",
+        "scope": "Ghosty"
+      },
+      "modification": "Replacement provided by owner; audio bytes not changed by Codex"
+    }
+  ]
+}
