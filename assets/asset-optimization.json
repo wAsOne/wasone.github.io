@@ -66,6 +66,15 @@
     "cached": false
   },
   {
+    "path": "/assets/ui/crystal-package.png",
+    "originalBytes": 2887,
+    "bytes": 2140,
+    "width": 128,
+    "height": 128,
+    "resized": false,
+    "cached": false
+  },
+  {
     "path": "/assets/ui/donat.png",
     "originalBytes": 12187,
     "bytes": 7290,
@@ -108,6 +117,21 @@
     "width": 1260,
     "height": 342,
     "resized": true,
+    "cached": false
+  },
+  {
+    "path": "/assets/ui/gift-placeholder.svg",
+    "originalBytes": 356,
+    "bytes": 356,
+    "cached": false
+  },
+  {
+    "path": "/assets/ui/gift.png",
+    "originalBytes": 2554,
+    "bytes": 2066,
+    "width": 64,
+    "height": 64,
+    "resized": false,
     "cached": false
   },
   {
@@ -165,10 +189,82 @@
     "cached": false
   },
   {
+    "path": "/assets/ui/owner/crystal.webp",
+    "originalBytes": 9378,
+    "bytes": 19818,
+    "width": 144,
+    "height": 144,
+    "resized": true,
+    "cached": false
+  },
+  {
+    "path": "/assets/ui/owner/crystals-110.webp",
+    "originalBytes": 92244,
+    "bytes": 30278,
+    "width": 144,
+    "height": 144,
+    "resized": true,
+    "cached": false
+  },
+  {
+    "path": "/assets/ui/owner/crystals-300.webp",
+    "originalBytes": 95980,
+    "bytes": 29558,
+    "width": 144,
+    "height": 144,
+    "resized": true,
+    "cached": false
+  },
+  {
+    "path": "/assets/ui/owner/crystals-50.webp",
+    "originalBytes": 58962,
+    "bytes": 19206,
+    "width": 144,
+    "height": 144,
+    "resized": true,
+    "cached": false
+  },
+  {
+    "path": "/assets/ui/owner/crystals-650.webp",
+    "originalBytes": 160478,
+    "bytes": 39548,
+    "width": 144,
+    "height": 144,
+    "resized": true,
+    "cached": false
+  },
+  {
     "path": "/assets/ui/owner/fishing.png",
     "originalBytes": 1158970,
     "bytes": 26468,
     "width": 180,
+    "height": 144,
+    "resized": true,
+    "cached": false
+  },
+  {
+    "path": "/assets/ui/owner/friends.webp",
+    "originalBytes": 19574,
+    "bytes": 19800,
+    "width": 144,
+    "height": 144,
+    "resized": true,
+    "cached": false
+  },
+  {
+    "path": "/assets/ui/owner/ghosty-logo-full.png",
+    "originalBytes": 670257,
+    "bytes": 354490,
+    "width": 1009,
+    "height": 565,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/ui/owner/gift.webp",
+    "originalBytes": 19842,
+    "bytes": 20342,
+    "width": 144,
     "height": 144,
     "resized": true,
     "cached": false
@@ -186,6 +282,15 @@
     "path": "/assets/ui/owner/settings.png",
     "originalBytes": 73383,
     "bytes": 20480,
+    "width": 144,
+    "height": 144,
+    "resized": true,
+    "cached": false
+  },
+  {
+    "path": "/assets/ui/owner/trophy.webp",
+    "originalBytes": 11492,
+    "bytes": 21698,
     "width": 144,
     "height": 144,
     "resized": true,
@@ -1152,9 +1257,63 @@
     "cached": false
   },
   {
+    "path": "/assets/characters/sprite-experimental/body.png",
+    "originalBytes": 34969,
+    "bytes": 15600,
+    "width": 512,
+    "height": 512,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/characters/sprite-experimental/eyes-reference.png",
+    "originalBytes": 15043,
+    "bytes": 3874,
+    "width": 512,
+    "height": 512,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/characters/sprite-experimental/neutral.png",
+    "originalBytes": 5931,
+    "bytes": 386,
+    "width": 512,
+    "height": 512,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/characters/sprite-experimental/sad.png",
+    "originalBytes": 6249,
+    "bytes": 498,
+    "width": 512,
+    "height": 512,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/characters/sprite-experimental/smile.png",
+    "originalBytes": 6202,
+    "bytes": 458,
+    "width": 512,
+    "height": 512,
+    "resized": false,
+    "cached": false
+  },
+  {
     "path": "/assets/characters/shirts/dragonfly_shirt_512.png",
     "originalBytes": 34135,
     "bytes": 19022,
+    "width": 512,
+    "height": 512,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/characters/shirts/dragonfly_shirt_512.webp",
+    "originalBytes": 10072,
+    "bytes": 10072,
     "width": 512,
     "height": 512,
     "resized": false,
@@ -1170,9 +1329,27 @@
     "cached": false
   },
   {
+    "path": "/assets/characters/shirts/shirt.webp",
+    "originalBytes": 6574,
+    "bytes": 6574,
+    "width": 512,
+    "height": 512,
+    "resized": false,
+    "cached": false
+  },
+  {
     "path": "/assets/characters/shirts/shirt2.png",
     "originalBytes": 40921,
     "bytes": 23742,
+    "width": 512,
+    "height": 512,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/characters/shirts/shirt2.webp",
+    "originalBytes": 14190,
+    "bytes": 14190,
     "width": 512,
     "height": 512,
     "resized": false,
@@ -1306,6 +1483,15 @@
     "cached": true
   },
   {
+    "path": "/assets/characters/held/stepashka_pistol_080.png",
+    "originalBytes": 22638,
+    "bytes": 10130,
+    "width": 512,
+    "height": 512,
+    "resized": false,
+    "cached": false
+  },
+  {
     "path": "/assets/characters/held/stepashka_pistol_512.png",
     "originalBytes": 22021,
     "bytes": 10154,
@@ -1324,6 +1510,15 @@
     "cached": false
   },
   {
+    "path": "/assets/characters/hats/dragonfly_wig_512.webp",
+    "originalBytes": 28218,
+    "bytes": 28218,
+    "width": 512,
+    "height": 512,
+    "resized": false,
+    "cached": false
+  },
+  {
     "path": "/assets/characters/hats/hat.png",
     "originalBytes": 35047,
     "bytes": 13960,
@@ -1333,9 +1528,27 @@
     "cached": false
   },
   {
+    "path": "/assets/characters/hats/hat.webp",
+    "originalBytes": 7346,
+    "bytes": 7346,
+    "width": 512,
+    "height": 512,
+    "resized": false,
+    "cached": false
+  },
+  {
     "path": "/assets/characters/hats/hat_sample_01.png",
     "originalBytes": 51802,
     "bytes": 20732,
+    "width": 512,
+    "height": 512,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/characters/hats/hat_sample_01.webp",
+    "originalBytes": 13412,
+    "bytes": 13412,
     "width": 512,
     "height": 512,
     "resized": false,
@@ -1379,6 +1592,15 @@
     "cached": false
   },
   {
+    "path": "/assets/characters/hats/stepashka_helmet_512.webp",
+    "originalBytes": 11848,
+    "bytes": 11848,
+    "width": 512,
+    "height": 512,
+    "resized": false,
+    "cached": false
+  },
+  {
     "path": "/assets/characters/glasses/glasses.png",
     "originalBytes": 18904,
     "bytes": 7080,
@@ -1388,9 +1610,27 @@
     "cached": false
   },
   {
+    "path": "/assets/characters/glasses/glasses.webp",
+    "originalBytes": 3510,
+    "bytes": 3510,
+    "width": 512,
+    "height": 512,
+    "resized": false,
+    "cached": false
+  },
+  {
     "path": "/assets/characters/glasses/glasses_sample_01.png",
     "originalBytes": 20334,
     "bytes": 8428,
+    "width": 512,
+    "height": 512,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/characters/glasses/glasses_sample_01.webp",
+    "originalBytes": 6166,
+    "bytes": 6166,
     "width": 512,
     "height": 512,
     "resized": false,
@@ -1423,6 +1663,285 @@
     "resized": false,
     "extension": ".webp",
     "cached": true
+  },
+  {
+    "path": "/assets/characters/clothing-080/angel_halo.webp",
+    "originalBytes": 5262,
+    "bytes": 5262,
+    "width": 512,
+    "height": 512,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/characters/clothing-080/angel_wings.webp",
+    "originalBytes": 9070,
+    "bytes": 9070,
+    "width": 512,
+    "height": 512,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/characters/clothing-080/black_cap.webp",
+    "originalBytes": 6998,
+    "bytes": 6998,
+    "width": 512,
+    "height": 512,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/characters/clothing-080/black_hoodie.webp",
+    "originalBytes": 6978,
+    "bytes": 6978,
+    "width": 512,
+    "height": 512,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/characters/clothing-080/black_scarf.webp",
+    "originalBytes": 7046,
+    "bytes": 7046,
+    "width": 512,
+    "height": 512,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/characters/clothing-080/clown_nose.webp",
+    "originalBytes": 2070,
+    "bytes": 2070,
+    "width": 512,
+    "height": 512,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/characters/clothing-080/clown_suit.webp",
+    "originalBytes": 11650,
+    "bytes": 11650,
+    "width": 512,
+    "height": 512,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/characters/clothing-080/dragonfly_shirt_512.webp",
+    "originalBytes": 10072,
+    "bytes": 10072,
+    "width": 512,
+    "height": 512,
+    "resized": false,
+    "extension": ".webp",
+    "cached": true
+  },
+  {
+    "path": "/assets/characters/clothing-080/dragonfly_wig_512.webp",
+    "originalBytes": 28218,
+    "bytes": 28218,
+    "width": 512,
+    "height": 512,
+    "resized": false,
+    "extension": ".webp",
+    "cached": true
+  },
+  {
+    "path": "/assets/characters/clothing-080/glasses_sample_01.webp",
+    "originalBytes": 6166,
+    "bytes": 6166,
+    "width": 512,
+    "height": 512,
+    "resized": false,
+    "extension": ".webp",
+    "cached": true
+  },
+  {
+    "path": "/assets/characters/clothing-080/glasses_sample_02.webp",
+    "originalBytes": 8388,
+    "bytes": 8388,
+    "width": 512,
+    "height": 512,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/characters/clothing-080/glasses_test.webp",
+    "originalBytes": 3510,
+    "bytes": 3510,
+    "width": 512,
+    "height": 512,
+    "resized": false,
+    "extension": ".webp",
+    "cached": true
+  },
+  {
+    "path": "/assets/characters/clothing-080/hat_sample_01.webp",
+    "originalBytes": 13412,
+    "bytes": 13412,
+    "width": 512,
+    "height": 512,
+    "resized": false,
+    "extension": ".webp",
+    "cached": true
+  },
+  {
+    "path": "/assets/characters/clothing-080/hat_sample_02.webp",
+    "originalBytes": 11632,
+    "bytes": 11632,
+    "width": 512,
+    "height": 512,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/characters/clothing-080/hat_test.webp",
+    "originalBytes": 7346,
+    "bytes": 7346,
+    "width": 512,
+    "height": 512,
+    "resized": false,
+    "extension": ".webp",
+    "cached": true
+  },
+  {
+    "path": "/assets/characters/clothing-080/heart_glasses.webp",
+    "originalBytes": 7662,
+    "bytes": 7662,
+    "width": 512,
+    "height": 512,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/characters/clothing-080/leather_jacket.webp",
+    "originalBytes": 9658,
+    "bytes": 9658,
+    "width": 512,
+    "height": 512,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/characters/clothing-080/mystery_staff.webp",
+    "originalBytes": 15634,
+    "bytes": 15634,
+    "width": 512,
+    "height": 512,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/characters/clothing-080/neko_hair.webp",
+    "originalBytes": 24066,
+    "bytes": 24066,
+    "width": 512,
+    "height": 512,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/characters/clothing-080/neko_suit.webp",
+    "originalBytes": 10532,
+    "bytes": 10532,
+    "width": 512,
+    "height": 512,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/characters/clothing-080/peys_hat.webp",
+    "originalBytes": 14434,
+    "bytes": 14434,
+    "width": 512,
+    "height": 512,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/characters/clothing-080/purple_top_hat.webp",
+    "originalBytes": 10506,
+    "bytes": 10506,
+    "width": 512,
+    "height": 512,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/characters/clothing-080/rainbow_wig.webp",
+    "originalBytes": 17676,
+    "bytes": 17676,
+    "width": 512,
+    "height": 512,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/characters/clothing-080/red_scarf.webp",
+    "originalBytes": 10164,
+    "bytes": 10164,
+    "width": 512,
+    "height": 512,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/characters/clothing-080/round_glasses.webp",
+    "originalBytes": 4850,
+    "bytes": 3858,
+    "width": 512,
+    "height": 512,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/characters/clothing-080/shirt_sample_01.webp",
+    "originalBytes": 10674,
+    "bytes": 10674,
+    "width": 512,
+    "height": 512,
+    "resized": false,
+    "cached": false
+  },
+  {
+    "path": "/assets/characters/clothing-080/shirt_test.webp",
+    "originalBytes": 6574,
+    "bytes": 6574,
+    "width": 512,
+    "height": 512,
+    "resized": false,
+    "extension": ".webp",
+    "cached": true
+  },
+  {
+    "path": "/assets/characters/clothing-080/shirt_test2.webp",
+    "originalBytes": 14190,
+    "bytes": 14190,
+    "width": 512,
+    "height": 512,
+    "resized": false,
+    "extension": ".webp",
+    "cached": true
+  },
+  {
+    "path": "/assets/characters/clothing-080/stepashka_helmet_512.webp",
+    "originalBytes": 11848,
+    "bytes": 11848,
+    "width": 512,
+    "height": 512,
+    "resized": false,
+    "extension": ".webp",
+    "cached": true
+  },
+  {
+    "path": "/assets/characters/clothing-080/summer_panama.webp",
+    "originalBytes": 10802,
+    "bytes": 10802,
+    "width": 512,
+    "height": 512,
+    "resized": false,
+    "cached": false
   },
   {
     "path": "/assets/characters/base/ghost_base.png",

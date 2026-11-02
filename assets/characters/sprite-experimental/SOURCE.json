@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "origin": "owner-provided",
+  "files": {
+    "body.png": {
+      "source": "тело.png",
+      "sha256": "13dfbe1d6a170da7f44891795a6ff2e0087463bef475ea91b55f260fc48b0820"
+    },
+    "eyes-reference.png": {
+      "source": "глаза пример.png",
+      "sha256": "d069a9a383fb67eabd0e5e62e1b8e7f3d45bdb19e3a6820588e67ee16840d6ff"
+    },
+    "smile.png": {
+      "source": "рот-улыбка.png",
+      "sha256": "f85acd29066c7c4d7125d6f339e26506ac8c41437225edd4ca90edee7dec0ee1"
+    },
+    "neutral.png": {
+      "source": "рот-нейтральный.png",
+      "sha256": "c9d13c56d164dcb2b458445c0388e6e5c790f3dffb1e611406c68e5fa4e621fe"
+    },
+    "sad.png": {
+      "source": "рот-грустный.png",
+      "sha256": "74f4f6b43c52a123df2e7388beac0951ba6667ab98fa02b0a86a48f93702285d"
+    }
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "date": "2026-11-02",
+  "source": "owner-provided images/новое тело и одежда",
+  "copy": "byte-identical WebP512 with alpha; body/eyes/mouth/PSD not modified",
+  "items": [
+    {
+      "id": "angel_wings",
+      "sourceFile": "Крылья ангела.webp",
+      "path": "/assets/characters/clothing-080/angel_wings.webp",
+      "sha256": "6926e6bd740f571674b8bfb4061e3bc08fda51baeb771893d02a6ac465d1b3f2"
+    },
+    {
+      "id": "angel_halo",
+      "sourceFile": "Ангельский нимб.webp",
+      "path": "/assets/characters/clothing-080/angel_halo.webp",
+      "sha256": "68137ec47f6d990862f92bba883521d8e780563495d7d11b1729e11646a3dc56"
+    },
+    {
+      "id": "glasses_sample_01",
+      "sourceFile": "Солнечные очки.webp",
+      "path": "/assets/characters/clothing-080/glasses_sample_01.webp",
+      "sha256": "4c1fd1efa6c902866e8f16d63098fd534fc01fc574e09a4eef34cc43065a7cf5"
+    },
+    {
+      "id": "shirt_test2",
+      "sourceFile": "Гавайская рубашка.webp",
+      "path": "/assets/characters/clothing-080/shirt_test2.webp",
+      "sha256": "ab4f8ac433e31c68c2e1e2c06c1f35c7395a3f3e0bf535405374554905cc618a"
+    },
+    {
+      "id": "hat_sample_01",
+      "sourceFile": "Гавайская шляпа.webp",
+      "path": "/assets/characters/clothing-080/hat_sample_01.webp",
+      "sha256": "75200e38255caf60e9739920de6c9efbb67ba5e762dddb05cfda6c5d7e853783"
+    },
+    {
+      "id": "peys_hat",
+      "sourceFile": "Шляпа с пейсами.webp",
+      "path": "/assets/characters/clothing-080/peys_hat.webp",
+      "sha256": "8f2f9aa47cff5b418acf325ef5b977ea0ad0843c15ff3c8a278ede1bd84dcba6"
+    },
+    {
+      "id": "clown_nose",
+      "sourceFile": "Клоунский нос.webp",
+      "path": "/assets/characters/clothing-080/clown_nose.webp",
+      "sha256": "bdd7fb377f66d29609d56daeb7e5b04042679bdde225ac8b2c1246a7fdf998d2"
+    },
+    {
+      "id": "rainbow_wig",
+      "sourceFile": "Радужный парик.webp",
+      "path": "/assets/characters/clothing-080/rainbow_wig.webp",
+      "sha256": "01dea82f796faeff522bfcb548e5d9e0a98b433aeb04d283fd9db65a0a9802da"
+    },
+    {
+      "id": "clown_suit",
+      "sourceFile": "Костюм клоуна.webp",
+      "path": "/assets/characters/clothing-080/clown_suit.webp",
+      "sha256": "0d1e496c910ec2dd883e965a673a333ef472b818361249d7139fe1f5c63baa7c"
+    },
+    {
+      "id": "leather_jacket",
+      "sourceFile": "Кожаная куртка.webp",
+      "path": "/assets/characters/clothing-080/leather_jacket.webp",
+      "sha256": "5bb584e504a22673b7e4563bf1f8806c6bc060c0bfdcf6c81f1075cd4ef9f871"
+    },
+    {
+      "id": "glasses_test",
+      "sourceFile": "Очки агента.webp",
+      "path": "/assets/characters/clothing-080/glasses_test.webp",
+      "sha256": "8032d6341250846bdabd89b2311354ebe6805fa4a75d879c573ad815d6711603"
+    },
+    {
+      "id": "shirt_test",
+      "sourceFile": "Деловой костюм.webp",
+      "path": "/assets/characters/clothing-080/shirt_test.webp",
+      "sha256": "fe77d836a875467b05f0dfa69dc337f0b7b3956606e3c85f40344e912605248a"
+    },
+    {
+      "id": "hat_test",
+      "sourceFile": "Шляпа агента.webp",
+      "path": "/assets/characters/clothing-080/hat_test.webp",
+      "sha256": "63a54a86da789561d83ae0f9b569d043a00aa3650c90286f0db854b1a4ae7703"
+    },
+    {
+      "id": "round_glasses",
+      "sourceFile": "Круглые очки.webp",
+      "path": "/assets/characters/clothing-080/round_glasses.webp",
+      "sha256": "ada4d0cd960884b14022cd4d4cf9f8a148a899b96acd60cb755af4f635cb787d"
+    },
+    {
+      "id": "shirt_sample_01",
+      "sourceFile": "Комбинезон.webp",
+      "path": "/assets/characters/clothing-080/shirt_sample_01.webp",
+      "sha256": "fe96cca9487f8e4eea9f265ebd2bd21a2771af6db38f455a7b34c2a879281afa"
+    },
+    {
+      "id": "glasses_sample_02",
+      "sourceFile": "Голубые очки.webp",
+      "path": "/assets/characters/clothing-080/glasses_sample_02.webp",
+      "sha256": "45dee196d7fa9ac44b8119d588f145b14e11c5cf0663142d41a6d934f1673d82"
+    },
+    {
+      "id": "hat_sample_02",
+      "sourceFile": "Кепка с пропеллером.webp",
+      "path": "/assets/characters/clothing-080/hat_sample_02.webp",
+      "sha256": "fe317aba45f34c7b2a4598c9f494dd0bf9e13879c8bb890e4f3d4459bbcda241"
+    },
+    {
+      "id": "neko_suit",
+      "sourceFile": "Костюм Неко.webp",
+      "path": "/assets/characters/clothing-080/neko_suit.webp",
+      "sha256": "dcaf5417e031cd77f3df99956d6e12b15ae5f5900814ebbf96f3838f24340cc4"
+    },
+    {
+      "id": "neko_hair",
+      "sourceFile": "Кошачьи ушки и волосы.webp",
+      "path": "/assets/characters/clothing-080/neko_hair.webp",
+      "sha256": "06e6feb125a1e8408213789b961c1c11eec2eb86632e6b08aa3e0f169c8055b6"
+    },
+    {
+      "id": "heart_glasses",
+      "sourceFile": "Очки-сердечки.webp",
+      "path": "/assets/characters/clothing-080/heart_glasses.webp",
+      "sha256": "d19e045a919d0c4f4fa5e7c9c8405539beeb46cc3b2bfe0a08f25f33df687758"
+    },
+    {
+      "id": "summer_panama",
+      "sourceFile": "Летняя панама.webp",
+      "path": "/assets/characters/clothing-080/summer_panama.webp",
+      "sha256": "6216e0164b595d249abc6669de5366572b31ed7dfafa79b35d587c8f131c9042"
+    },
+    {
+      "id": "mystery_staff",
+      "sourceFile": "Загадочный посох.webp",
+      "path": "/assets/characters/clothing-080/mystery_staff.webp",
+      "sha256": "808466afc4667d280868ce04473e1117660197b38474fdb54def3082b5844c54"
+    },
+    {
+      "id": "stepashka_helmet_512",
+      "sourceFile": "Каска Стёпашки.webp",
+      "path": "/assets/characters/clothing-080/stepashka_helmet_512.webp",
+      "sha256": "65ff6a0dbe9e3ef584d98049ab418dd7fd27eafd5772ab7d0e1cda6e3a6f80ad"
+    },
+    {
+      "id": "dragonfly_wig_512",
+      "sourceFile": "Парик Стрекозы-тян.webp",
+      "path": "/assets/characters/clothing-080/dragonfly_wig_512.webp",
+      "sha256": "b38b12be7e95a414f183c27938392c24790a19c4ad6dcb4737f5519a9c595598"
+    },
+    {
+      "id": "dragonfly_shirt_512",
+      "sourceFile": "Футболка Стрекозы-тян.webp",
+      "path": "/assets/characters/clothing-080/dragonfly_shirt_512.webp",
+      "sha256": "aebefbb4037c586c7c227ce48e9a1f76acac8a09c5e66dfdbb42a5fa908b25e1"
+    },
+    {
+      "id": "purple_top_hat",
+      "sourceFile": "Фиолетовый цилиндр.webp",
+      "path": "/assets/characters/clothing-080/purple_top_hat.webp",
+      "sha256": "a413cc434306f57eef1090ec8911bd065da930e4cec4e7147d733663d67b9f9f"
+    },
+    {
+      "id": "black_cap",
+      "sourceFile": "Чёрная кепка.webp",
+      "path": "/assets/characters/clothing-080/black_cap.webp",
+      "sha256": "e1472153ae31706ff02fc606aae1f6d0e6977967a69bd8fc58427b3fc66b00f0"
+    },
+    {
+      "id": "black_hoodie",
+      "sourceFile": "Чёрное худи.webp",
+      "path": "/assets/characters/clothing-080/black_hoodie.webp",
+      "sha256": "ebe8cba2366d74832715da26ef9acd5ba88ec321748d9694a07c233ad8edb788"
+    },
+    {
+      "id": "red_scarf",
+      "sourceFile": "Красный шарф.webp",
+      "path": "/assets/characters/clothing-080/red_scarf.webp",
+      "sha256": "fc6c8944b0bf47880f51da5957f94d8be844ca6894c3c2191a35163848db6361"
+    },
+    {
+      "id": "black_scarf",
+      "sourceFile": "Чёрный шарф.webp",
+      "path": "/assets/characters/clothing-080/black_scarf.webp",
+      "sha256": "e8f103182e61c5e6f4b60875b3057e3424b501b70c582f69eecf6715502f3d22"
+    }
+  ]
+}

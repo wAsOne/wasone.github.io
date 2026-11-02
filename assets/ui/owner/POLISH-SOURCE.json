@@ -1,0 +1,38 @@
+{
+  "origin": "owner-provided",
+  "note": "600 source contains no numeral; used for authoritative650 package.",
+  "files": {
+    "crystals-50.webp": {
+      "source": "50 кристаллы.webp",
+      "sha256": "05e90b9f6479016b4c03196a289f2a5c1df28e12441fa8aa3678b1d30db8e3bb"
+    },
+    "crystals-110.webp": {
+      "source": "110 кристаллы.webp",
+      "sha256": "e145a937ac8fbee0153e7a72ff2c6af235e87f148fd4daa7c398297fcc5e07ca"
+    },
+    "crystals-300.webp": {
+      "source": "300 кристаллы.webp",
+      "sha256": "ac9032bb1972185a22a51704c477c5e5d629f8d8ac47b73bddd7b8bacd5e0f9c"
+    },
+    "crystals-650.webp": {
+      "source": "600 кристаллы.webp",
+      "sha256": "65483887457d6772f93c34ae46bc1cb5b17d5484452cc962908e1fe613d1a6c6"
+    },
+    "trophy.webp": {
+      "source": "достижения.webp",
+      "sha256": "5927f47f17690e0bbea66b6f19d30003b62f36bec2bf1652345fad0e52930ec4"
+    },
+    "friends.webp": {
+      "source": "друзья.webp",
+      "sha256": "8209c265794966a9667da8ca07ffd92ca6b10467fd501beb7aa4ef828d3ccf28"
+    },
+    "crystal.webp": {
+      "source": "кристалл.webp",
+      "sha256": "e67b2143e86a99f16b8f891ca3168797d83a763e6b5116a09e18988ee7ea5a73"
+    },
+    "gift.webp": {
+      "source": "подарки.webp",
+      "sha256": "7ca5e4f35361a7252e0d4ec41136d7e84b4e2e5ec5b9a05b13af115dc95379c9"
+    }
+  }
+}
