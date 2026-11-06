@@ -1,0 +1,1 @@
+import{i as t}from"./world-DivJoN32.js";import{l as a}from"./index-Y1Wxf6uv.js";async function e(){const o=await fetch(a+"/api/world",{cache:"no-store",signal:AbortSignal.timeout(6e3)});if(!o.ok)throw Error("Не удалось загрузить согласованную карту");const r=await o.json();t(r.map,r.version)}export{e as loadStudioWorld};
