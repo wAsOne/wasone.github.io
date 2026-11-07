@@ -1,4 +1,4 @@
-import{$ as e}from"./index-Y1Wxf6uv.js";function o(){document.querySelector("#login-form").hidden=!0;const a=document.createElement("section");a.className="aero-window dragonfly-login ghosty-migration",a.innerHTML=`<header data-studio-message="message.auth.migration.b06a5b11ba6f" class="aero-header">Гости переехали на Стрекозу!</header>
+import{$ as e}from"./index-BGXVgLBh.js";function o(){document.querySelector("#login-form").hidden=!0;const a=document.createElement("section");a.className="aero-window dragonfly-login ghosty-migration",a.innerHTML=`<header data-studio-message="message.auth.migration.b06a5b11ba6f" class="aero-header">Гости переехали на Стрекозу!</header>
     <div class="dragonfly-login-body">
       <p data-studio-message="message.auth.migration.bd096ea7e6d3">Теперь вход в Гости осуществляется через платформу Стрекоза. Если ты уже играл раньше, привяжи старый аккаунт, чтобы сохранить персонажа, монеты и предметы.</p>
       <ol><li data-studio-message="message.auth.migration.78f07cfb46ed">Зарегистрируйся или войди на dragonfly-flash.com.</li>
