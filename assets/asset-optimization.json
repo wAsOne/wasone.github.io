@@ -270,6 +270,15 @@
     "cached": false
   },
   {
+    "path": "/assets/ui/owner/ideas.png",
+    "originalBytes": 58929,
+    "bytes": 16548,
+    "width": 144,
+    "height": 144,
+    "resized": true,
+    "cached": false
+  },
+  {
     "path": "/assets/ui/owner/notifications.png",
     "originalBytes": 64614,
     "bytes": 16912,
